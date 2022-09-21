@@ -1,0 +1,35 @@
+{
+    "soto": {
+        "toko": "Soto Khas Semarang Pak Man",
+        "lokasi": "Jl. Pamularsih Raya No.32, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",
+        "jamBuka": "07:00 - 19:00",
+        "gambar": {
+            "gambar1": "https://lh5.googleusercontent.com/p/AF1QipPU0YoRix-mxv-TaZS--c57yhzqu1u7JDJzPElH=w203-h270-k-no",
+            "gambar2": "https://lh5.googleusercontent.com/p/AF1QipPp7dHHmE6aLRR8cHhOzf636imelsjqR-u6hVhY=s812-k-no",
+            "gambar3": "https://lh5.googleusercontent.com/p/AF1QipMtXzUIZgYryfZvlYeZ64UJ2xMNwFcAn4yQOirH=s812-k-no"
+        },
+        "harga": {
+            "rekomendasi": {
+                "sotoAyam": "24.000",
+                "sotoAyamPisah": "28.000"
+            },
+            "makanan": {
+                "sotoAyam1/2": "22.000",
+                "nasiPutih": "6.000",
+                "sateUsus": "8.500",
+                "sateTelurPuyuh": "8.500",
+                "tempe": "3.500"
+            },
+            "minuman": {
+                "esTeh": "6.000",
+                "tehHangat": "6.000",
+                "esJruk": "7.000",
+                "jerukHangat": "7.000"
+            }
+        },
+        "gofood": "https://gofood.co.id/surabaya/restaurant/soto-ayam-khas-semarang-pak-man-lakarsantri-c3f6f3f6-a05d-4abf-84fe-e07f1194faf3",
+        "maps": "https://www.google.com/maps/place/Soto+Ayam+Khas+Semarang+Pak+Man/data=!3m1!4b1!4m2!3m1!1s0x2e708b3a91d9be51:0x4e27f0b8d844b985",
+        "website": "https://business.google.com/website/sotoayamkhassemarangpakman",
+        "noTelpn": "081228277896"
+    }
+}
