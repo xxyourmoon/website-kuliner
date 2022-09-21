@@ -32,6 +32,31 @@
         "website": "https://business.google.com/website/sotoayamkhassemarangpakman",
         "noTelpn": "081228277896"
     },
+    "esPuter": {
+        "toko": "Es Puter Cong Lik",
+        "lokasi": "Jl. Kh Ahmad Dahlan No.11, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah",
+        "jamBuka": "18:00 - 23:30",
+        "gambar": {
+            "gambar1": "https://lh5.googleusercontent.com/p/AF1QipP4GM0KLIztejUMJKOoALxXo_gXDghyComWgk6d=w203-h101-k-no",
+            "gambar2": "https://lh5.googleusercontent.com/p/AF1QipPO-HYYdwQjHbwhTJn-CpA7Gw57AugrUzs3ycFF=s563-k-no",
+            "gambar3": "https://lh5.googleusercontent.com/p/AF1QipMEHkBelljEW6EOjpyjfDHNeR0f2LnCqa4mAaY_=s563-k-no"
+        },
+        "harga": {
+            "rekomendasi": "-",
+            "makanan": "-",
+            "minuman": {
+                "durian": "25.000",
+                "alpokat": "15.000",
+                "kopyor": "25.000",
+                "theler": "25.000",
+                "kacangHijau": "15.000"
+            }
+        },
+        "gofood": "https://gofood.co.id/semarang/restaurant/es-puter-conglik-26878e9b-2bb2-45cc-bc74-79deb275d1fc",
+        "maps": "https://www.google.com/maps/place/Es+Puter+Cong+Lik/@-6.9892491,110.425663,15z/data=!4m2!3m1!1s0x0:0xadc38b9d3616d1d9?sa=X&ved=2ahUKEwjetaqlgqb6AhXYRmwGHaiaDhUQ_BJ6BAhFEAU",
+        "website": "-",
+        "noTelpn": "0248443619"
+    },
     "lumpia": {
         "toko": "Loenpia Mbak Lien",
         "lokasi": "Jl. Pemuda No.1, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50138",
