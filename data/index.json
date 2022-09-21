@@ -31,5 +31,64 @@
         "maps": "https://www.google.com/maps/place/Soto+Ayam+Khas+Semarang+Pak+Man/data=!3m1!4b1!4m2!3m1!1s0x2e708b3a91d9be51:0x4e27f0b8d844b985",
         "website": "https://business.google.com/website/sotoayamkhassemarangpakman",
         "noTelpn": "081228277896"
+    },
+    "lumpia": {
+        "toko": "Loenpia Mbak Lien",
+        "lokasi": "Jl. Pemuda No.1, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50138",
+        "jamBuka": "08:30 - 21:30",
+        "gambar": {
+            "gambar1": "https://lh5.googleusercontent.com/p/AF1QipNNEj-LhMRryUGgNDT88vlNKKxbqyFPBl5MtSEA=w254-h142-k-no",
+            "gambar2": "https://lh5.googleusercontent.com/p/AF1QipOqQDWF2k_-WsbOliRPkJTkARHOsAEhxzhHqBHJ=s544-k-no",
+            "gambar3": "https://lh5.googleusercontent.com/p/AF1QipNXrexA-FjOS9thEOZL3bDB9JfJfreyIRl6ZYlE=s563-k-no"
+        },
+        "harga": {
+            "rekomendasi": {
+                "loenpiaOriginal": "16.000",
+                "loenpiaOnigiri": "15.000"
+            },
+            "makanan": {
+                "loenpiaSpecial": "17.000",
+                "loenpiaWesternJamur": "18.000",
+                "loenpiaSeafoodKepitingJamur": "23.000",
+                "loenpiaWesternBeefTeppan": "19.000"
+            },
+            "minuman": {
+                "esHotKopiLatte": "18.000",
+                "esHotJahe": "15.000",
+                "esHotMilo": "18.000",
+                "esHotTehTawar": "9.000"
+            }
+        },
+        "gofood": "https://gofood.co.id/semarang/restaurant/loenpia-mbak-lien-semarang-tengah-893cfa5e-0d17-46de-9775-1608cddb3314",
+        "maps": "https://www.google.com/maps/place/Loenpia+Mbak+Lien/@-6.972929,110.4211819,15z/data=!4m2!3m1!1s0x0:0x34dbdfb2bcc656aa?sa=X&ved=2ahUKEwj62bCe6aX6AhUwR2wGHRvGA4gQ_BJ6BAhtEAU",
+        "website": "-",
+        "noTelpn": "0243580734"
+    },
+    "mieKopyok": {
+        "toko": "Mi Kopyok Pak Dhuwur",
+        "lokasi": "Jl. Tanjung No.18A, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
+        "jamBuka": "08:00 - 16:00",
+        "gambar": {
+            "gambar1": "https://lh5.googleusercontent.com/p/AF1QipOHbaDYyvmHN40JhKssq7K-cwfJ_gCOHLjCc6ad=w203-h152-k-no",
+            "gambar2": "https://lh5.googleusercontent.com/p/AF1QipMjK8BBcEWmETYS-BXSckAblzJRC5yDQzC2KKXJ=s483-k-no",
+            "gambar3": "https://lh5.googleusercontent.com/p/AF1QipPMl_oARc076cVyr89ouOutEYwQftT38avMPlRv=s423-k-no"
+        },
+        "harga": {
+            "rekomendasi": {
+                "miKopyok": "18.750"
+            },
+            "makanan": {
+                "miKopyokJumbo": "22.500",
+                "kerupukKarak": "2.000"
+            },
+            "minuman": {
+                "esTeh": "3.750",
+                "esJruk": "6.250"
+            }
+        },
+        "gofood": "https://gofood.co.id/semarang/restaurant/mie-kopyok-pak-dhuwur-tanjung-cbef15d1-b994-44ca-a1c6-cfacc9e20e2b",
+        "maps": "https://www.google.com/maps/place/Mie+Kopyok+Pak+Dhuwur/@-6.976271,110.416283,15z/data=!4m2!3m1!1s0x0:0x141b16ddaa802019?sa=X&ved=2ahUKEwj6xNLa6qX6AhW9TGwGHdvZA4sQ_BJ6BAhEEAU",
+        "website": "https://mie-kopyok-pak-dhuwur.business.site/",
+        "noTelpn": "085641372758"
     }
 }
