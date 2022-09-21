@@ -1,6 +1,3 @@
 fetch("./data/index.json")
    .then((response) => response.json())
-   .then(
-      (json) =>
-         (console.log(json)),
-   );
+   .then((json) => console.log(json));
