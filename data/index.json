@@ -4,29 +4,29 @@
             "toko": "Soto Khas Semarang Pak Man",
             "lokasi": "Jl. Pamularsih Raya No.32, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",
             "jamBuka": "07:00 - 19:00",
-            "gambar": {
-                "gambar1": "https://lh5.googleusercontent.com/p/AF1QipPU0YoRix-mxv-TaZS--c57yhzqu1u7JDJzPElH=w203-h270-k-no",
-                "gambar2": "https://lh5.googleusercontent.com/p/AF1QipPp7dHHmE6aLRR8cHhOzf636imelsjqR-u6hVhY=s812-k-no",
-                "gambar3": "https://lh5.googleusercontent.com/p/AF1QipMtXzUIZgYryfZvlYeZ64UJ2xMNwFcAn4yQOirH=s812-k-no"
-            },
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c363d74a-8bfa-473d-b17d-3042956ce925_Go-Biz_20200627_082828.jpeg?auto=format",
+                "https://lh5.googleusercontent.com/p/AF1QipO4H4GiWQXkvKW8Yy_DEVTQi7ZfJJIVC25_crvI=w254-h338-k-no",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/569da90f-bb87-4d29-a3c2-3fd96536384a_Go-Biz_20200627_083511.jpeg?auto=format"
+            ],
             "harga": {
-                "rekomendasi": {
-                    "rekomendasi1": "Soto Ayam : Rp 24.000",
-                    "rekomendasi2": "Soto Ayam Pisah : Rp 28.000"
-                },
-                "makanan": {
-                    "makanan1": "Soto Ayam 1/2 : Rp 22.000",
-                    "makanan2": "Nasi Putih : Rp 6.000",
-                    "makanan3": "Sate Usus : Rp 8.500",
-                    "makanan4": "Sate Telur Puyuh : Rp 8.500",
-                    "makanan5": "Sate Usus : Rp 3.500"
-                },
-                "minuman": {
-                    "minuman1": "Es Teh : Rp 6.000",
-                    "minuman2": "Teh Hangat : Rp 6.000",
-                    "minuman3": "Es Jeruk : Rp 7.000",
-                    "minuman4": "Jeruk Hangat : Rp 7.000"
-                }
+                "rekomendasi": [
+                    "Soto Ayam : Rp 24.000",
+                    "Soto Ayam Pisah : Rp 28.000"
+                ],
+                "makanan": [
+                    "Soto Ayam 1/2 : Rp 22.000",
+                    "Nasi Putih : Rp 6.000",
+                    "Sate Usus : Rp 8.500",
+                    "Sate Telur Puyuh : Rp 8.500",
+                    "Sate Usus : Rp 3.500"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 6.000",
+                    "Teh Hangat : Rp 6.000",
+                    "Es Jeruk : Rp 7.000",
+                    "Jeruk Hangat : Rp 7.000"
+                ]
             },
             "gofood": "https://gofood.co.id/surabaya/restaurant/soto-ayam-khas-semarang-pak-man-lakarsantri-c3f6f3f6-a05d-4abf-84fe-e07f1194faf3",
             "maps": "https://www.google.com/maps/place/Soto+Ayam+Khas+Semarang+Pak+Man/data=!3m1!4b1!4m2!3m1!1s0x2e708b3a91d9be51:0x4e27f0b8d844b985",
@@ -37,21 +37,21 @@
             "toko": "Es Puter Cong Lik",
             "lokasi": "Jl. Kh Ahmad Dahlan No.11, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah",
             "jamBuka": "18:00 - 23:30",
-            "gambar": {
-                "gambar1": "https://lh5.googleusercontent.com/p/AF1QipP4GM0KLIztejUMJKOoALxXo_gXDghyComWgk6d=w203-h101-k-no",
-                "gambar2": "https://lh5.googleusercontent.com/p/AF1QipPO-HYYdwQjHbwhTJn-CpA7Gw57AugrUzs3ycFF=s563-k-no",
-                "gambar3": "https://lh5.googleusercontent.com/p/AF1QipMEHkBelljEW6EOjpyjfDHNeR0f2LnCqa4mAaY_=s563-k-no"
-            },
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/102f3f95-fbf0-4eae-b11a-178d82f5c159_2499b8e4-a592-4621-b7a2-1ab469c98e6a_file20190909-10424-upq16j.jpeg?auto=format",
+                "https://lh5.googleusercontent.com/p/AF1QipMbU5BH-zc84_Qx4XQwM8u2ObQ9-jptgOxNTJgx=w203-h203-k-no",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/eb7cc98b-c590-42fc-aa34-63ba436b36fb_2dcb447a-5f71-40f9-99c9-2b97dcbfe1de.jpg?auto=format"
+            ],
             "harga": {
-                "rekomendasi": "-",
-                "makanan": "-",
-                "minuman": {
-                    "minuman1": "Durian : Rp 25.000",
-                    "minuman2": "Alpokat : Rp 15.000",
-                    "minuman3": "Kopyor : Rp 25.000",
-                    "minuman4": "Theler : Rp 25.000",
-                    "minuman5": "Es Milo : Rp 15.000"
-                }
+                "rekomendasi": [],
+                "makanan": [],
+                "minuman": [
+                    "Durian : Rp 25.000",
+                    "Alpokat : Rp 15.000",
+                    "Kopyor : Rp 25.000",
+                    "Theler : Rp 25.000",
+                    "Es Milo : Rp 15.000"
+                ]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/es-puter-conglik-26878e9b-2bb2-45cc-bc74-79deb275d1fc",
             "maps": "https://www.google.com/maps/place/Es+Puter+Cong+Lik/@-6.9892491,110.425663,15z/data=!4m2!3m1!1s0x0:0xadc38b9d3616d1d9?sa=X&ved=2ahUKEwjetaqlgqb6AhXYRmwGHaiaDhUQ_BJ6BAhFEAU",
@@ -62,28 +62,28 @@
             "toko": "Loenpia Mbak Lien",
             "lokasi": "Jl. Pemuda No.1, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50138",
             "jamBuka": "08:30 - 21:30",
-            "gambar": {
-                "gambar1": "https://lh5.googleusercontent.com/p/AF1QipNNEj-LhMRryUGgNDT88vlNKKxbqyFPBl5MtSEA=w254-h142-k-no",
-                "gambar2": "https://lh5.googleusercontent.com/p/AF1QipOqQDWF2k_-WsbOliRPkJTkARHOsAEhxzhHqBHJ=s544-k-no",
-                "gambar3": "https://lh5.googleusercontent.com/p/AF1QipNXrexA-FjOS9thEOZL3bDB9JfJfreyIRl6ZYlE=s563-k-no"
-            },
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/bd310fd4-0a5b-4ffc-b88f-7cecff764f51_Go-Biz_20220407_131841.jpeg?auto=format",
+                "https://lh5.googleusercontent.com/p/AF1QipM-_Y6ilqq96o-QnluUmarqyx3rbdqcTXnFR5NG=w203-h129-k-no",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7839e1d6-c7de-44e3-bbd3-72e0b30f3f30_Go-Biz_20220407_131904.jpeg?auto=format"
+            ],
             "harga": {
-                "rekomendasi": {
-                    "rekomendasi1": "Loenpia Original : Rp 16.000",
-                    "rekomendasi2": "Loenpia Onigiri : Rp 15.000"
-                },
-                "makanan": {
-                    "makanan1": "Loenpia Special : Rp 17.000",
-                    "makanan2": "Loenpia Western Jamur : Rp 18.000",
-                    "makanan3": "Loenpia Seafood Kepiting Jamur : Rp 23.000",
-                    "makanan4": "Loenpia Western Beef Teppan : Rp 19.000"
-                },
-                "minuman": {
-                    "minuman1": "Es Hot Kopi Latte : Rp 18.000",
-                    "minuman2": "Es Hot Jahe : Rp 15.000",
-                    "minuman3": "Es Hot Milo : Rp 18.000",
-                    "minuman4": "Es Hot Teh Tawar : Rp 9.000"
-                }
+                "rekomendasi": [
+                    "Loenpia Original : Rp 16.000", 
+                    "Loenpia Onigiri : Rp 15.000"
+                ],
+                "makanan": [
+                    "Loenpia Special : Rp 17.000", 
+                    "Loenpia Western Jamur : Rp 18.000", 
+                    "Loenpia Seafood Kepiting Jamur : Rp 23.000", 
+                    "Loenpia Western Beef Teppan : Rp 19.000"
+            ],
+                "minuman": [
+                    "Es Hot Kopi Latte : Rp 18.000",
+                    "Es Hot Jahe : Rp 15.000",
+                    "Es Hot Milo : Rp 18.000",
+                    "Es Hot Teh Tawar : Rp 9.000"
+                ]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/loenpia-mbak-lien-semarang-tengah-893cfa5e-0d17-46de-9775-1608cddb3314",
             "maps": "https://www.google.com/maps/place/Loenpia+Mbak+Lien/@-6.972929,110.4211819,15z/data=!4m2!3m1!1s0x0:0x34dbdfb2bcc656aa?sa=X&ved=2ahUKEwj62bCe6aX6AhUwR2wGHRvGA4gQ_BJ6BAhtEAU",
@@ -94,28 +94,103 @@
             "toko": "Mi Kopyok Pak Dhuwur",
             "lokasi": "Jl. Tanjung No.18A, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
             "jamBuka": "08:00 - 16:00",
-            "gambar": {
-                "gambar1": "https://lh5.googleusercontent.com/p/AF1QipOHbaDYyvmHN40JhKssq7K-cwfJ_gCOHLjCc6ad=w203-h152-k-no",
-                "gambar2": "https://lh5.googleusercontent.com/p/AF1QipMjK8BBcEWmETYS-BXSckAblzJRC5yDQzC2KKXJ=s483-k-no",
-                "gambar3": "https://lh5.googleusercontent.com/p/AF1QipPMl_oARc076cVyr89ouOutEYwQftT38avMPlRv=s423-k-no"
-            },
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/dc68caca-ca5a-4400-aac7-aaa358ab17c6_Go-Biz_20211019_160858.jpeg?auto=format",
+                "https://lh5.googleusercontent.com/p/AF1QipNOIJwGT3x5lGLj3ags9y88qe4pdHZfpUbv_D1m=w203-h152-k-no",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4f8a7cf0-dac4-4d2e-9158-92042062c491_Go-Biz_20211004_075249.jpeg?auto=format"
+            ],
             "harga": {
-                "rekomendasi": {
-                    "rekomendasi1": "Mi Kopyok : Rp 18.750"
-                },
-                "makanan": {
-                    "makanan1": "Mi Kopyok Jumbo : Rp 22.500",
-                    "makanan2": "kerupukKarak : Rp 2.000"
-                },
-                "minuman": {
-                    "minuman1": "Es Teh : Rp 3.750",
-                    "minuman2": "Es Jeruk : Rp 6.250"
-                }
+                "rekomendasi": ["Mi Kopyok : Rp 18.750"],
+                "makanan": [
+                    "Mi Kopyok Jumbo : Rp 22.500", 
+                    "kerupukKarak : Rp 2.000"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 3.750", 
+                    "Es Jeruk : Rp 6.250"
+                ]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/mie-kopyok-pak-dhuwur-tanjung-cbef15d1-b994-44ca-a1c6-cfacc9e20e2b",
             "maps": "https://www.google.com/maps/place/Mie+Kopyok+Pak+Dhuwur/@-6.976271,110.416283,15z/data=!4m2!3m1!1s0x0:0x141b16ddaa802019?sa=X&ved=2ahUKEwj6xNLa6qX6AhW9TGwGHdvZA4sQ_BJ6BAhEEAU",
             "website": "https://mie-kopyok-pak-dhuwur.business.site/",
             "noTelpn": "085641372758"
+        },
+        {
+            "toko": "Bakso Pak Ik'ok",
+            "lokasi": "Jl. Tulus Harapan, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah 50272",
+            "jamBuka": "10:00 - 21:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/010ed10d-9f39-4b8a-ab7d-5f2d41d24c7e_d8400319-ab95-46b3-bb2f-bca89538509b_master-menu-item-image_1589266239867.jpg?auto=format",
+                "https://lh5.googleusercontent.com/p/AF1QipOWNykbpG7_DgT6dmFvnqr6GjwJyK-z5T9pNbPm=w254-h254-k-no"
+            ],
+            "harga": {
+                "rekomendasi": [],
+                "makanan": [],
+                "minuman": []
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/bakso-pak-i-ok-tulus-harapan-9950ae66-7577-4ae4-ab15-2f6642676952",
+            "maps": "https://www.google.com/maps/place/BAKSO+PAK+IK'OK/@-7.0357921,110.4714568,15z/data=!4m2!3m1!1s0x0:0xa9eeddf77fc6140b?sa=X&ved=2ahUKEwjUsqPEuKj6AhU0TmwGHVaTAF8Q_BJ6BAhhEAU",
+            "website": "-",
+            "noTelpn": "081326407563"
+        },
+        {
+            "toko": "Martabak dan Kue Bandung Pak Agus",
+            "lokasi": "Jl. Klipang No.5, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah 50272",
+            "jamBuka": "15:30 - 23:30",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/759877aa-5c4f-4660-b159-67dca06b83d1_Go-Biz_20220417_190756.jpeg?auto=format",
+                "https://assets-pergikuliner.com/-cR-wV55QQOb7h_v5dVzpxeyptQ=/fit-in/758x598/smart/https://assets-pergikuliner.com/uploads/image/picture/885523/picture-1523586197.jpg 1x, https://assets-pergikuliner.com/H87VnCtsWqe-YQLfEOad5JeKlik=/fit-in/1516x1196/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/image/picture/885523/picture-1523586197.jpg 2x",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/99b84c6a-c99e-4df8-aaf8-2ba5be909bc5_Go-Biz_20211202_221331.jpeg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Martabak Telor 3 : Rp 40.000"
+                ],
+                "makanan": [
+                    "Kue Bandung Coklat kacang : Rp 29.900",
+                    "Kue Bandung Keju : Rp 33.000",
+                    "Kue Bandung Keju coklat : 38.000",
+                    "Hitam keju coklat kacang : Rp 43.000",
+                    "Kue Bandung Keju coklat kacang : Rp 40.000"
+                ],
+                "minuman": []
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/martabak-kue-bandung-pak-agus-tembalang-a18ed1d8-489c-4fc5-9d14-e257d8b11e05",
+            "maps": "https://www.google.com/maps/place/Martabak+dan+Kue+Bandung+Pak+Agus/@-7.037008,110.4695704,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708c34e461051f:0xe2716ed45709f63f!8m2!3d-7.037008!4d110.4717591",
+            "website": "-",
+            "noTelpn": "08157607336"
+        },
+        {
+            "toko": " Tahu Gimbal dan Ketoprak Abizard",
+            "lokasi": "Jl. Puspowarno Selatan 2 No.23, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",
+            "jamBuka": "24 Jam",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/915ed8ad-b9ba-4885-a3ee-fbe326816c50_Go-Biz_20201027_082937.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/45722257-916d-47d1-96eb-c2663e367fb5_Go-Biz_20210817_142929.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5c5be5e9-58f6-4b67-974e-9376291ae7b7_Go-Biz_20210817_143841.jpeg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Tahu Gimbal : Rp 22.500",
+                    "Ketoprak : Rp 19.800"
+                ],
+                "makanan": [
+                    "Tahu Gimbal : Rp 22.500",
+                    "Telur Dadar / Telur Ceplok : Rp 8.000",
+                    "Lontong Tahu Campur Biasa : Rp 17.000",
+                    "Nasi Telur Ceplok / Telur Dadar Sambal Kacang : Rp 16.000"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 6.000",
+                    "Es Jeruk : Rp 7.000",
+                    "Es Goodday : Rp 7.000",
+                    "Es Susu Putih : Rp 7.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/tahu-gimbal-dan-ketoprak-abizard-puspowarno-0b008d28-fcd8-4fe2-a4dd-2dc32b9dbab5",
+            "maps": "https://www.google.com/maps/place/Ketoprak+%22ABIZARD%22/@-6.9879948,110.3941959,15z/data=!4m2!3m1!1s0x0:0x69e80f2a5807348c?sa=X&ved=2ahUKEwiQ6O7lw6j6AhXGRmwGHXVpAe0Q_BJ6BAhTEAU",
+            "website": "-",
+            "noTelpn": "-"
         }
     ]
 }
