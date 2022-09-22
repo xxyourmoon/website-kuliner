@@ -468,7 +468,6 @@ img#site-title {
 }
 
 .grid-gallery figure img {
-  display: block;
   width: 100%;
 }
 
@@ -563,11 +562,11 @@ img#site-title {
 
 .slideshow li {
   max-width: 800px; /*660*/
-  height: 800px; /*auto*/
+  height: auto; /*auto*/
   position: absolute;
-  top: 50%;
+  top: 500px;
   left: 50%;
-  margin: -380px 0 0 -400px;
+  margin: -380px 0 0 -350px;
   visibility: hidden;
 }
 
@@ -595,51 +594,54 @@ img#site-title {
 }
 
 .slideshow figure {
-  width: 100%;
-  height: 100%;
+  width: 700px;
+  height: 700px;
   background: #fff;
-  border: 16px solid #fff;
   overflow: hidden;
   position: relative;
+  border: 16px solid #fff;
 }
 .slideshow figure img {
-  max-width: 50%;
+  width: 350px;
   height: auto;
   position: relative;
 }
-/*.slideshow figure iframe {
-   max-width: 50%;
-   height: auto;
-   position: relative;
-   left: 400px;
-   bottom: 290px;
-}
-*/
+
 .slideshow figcaption {
-  padding-bottom: 20px;
-  padding-top: 20px;
-  position: absolute;
-  top: -27px;
-  left: 400px;
+  width: 300px;
+  height: auto;
+  position: relative;
+  left: 366px;
   text-align: justify;
+  bottom: 664px;
+}
+.slideshow figure iframe {
+  width: 350px;
+  height: 385px;
+  position: relative;
+  top: 20px;
 }
 /*TEXT : NAMA TOKO*/
 .slideshow figcaption h3 {
-  font-size: 200%;
   color: #333;
   font-size: 23px;
   font-weight: bold;
-  position: relative;
-  text-align: justify;
 }
-/*TEXT : LOKASI*/
+/*TEXT : LOKASI, JAM BUKA, MENU DAN HARGA (TITLE)*/
 .slideshow figcaption h4 {
   font-weight: 500;
-  font-size: 100%;
   color: #333;
   font-size: 15px;
+}
+/*TEXT : DESC MENU DAN HARGA*/
+.slideshow figcaption .menu {
+  width: 240px;
+  height: auto;
   position: relative;
-  top: 10px;
+  left: 90px;
+  bottom: 30px;
+  text-align: justify;
+  font-weight: 500;
 }
 /* Navigation */
 .slideshow nav span {
@@ -1007,7 +1009,7 @@ blockquote .small {
   }
 
   .slideshow li figure img {
-    width: auto;FnavbR
+    width: auto;
     margin: 0 auto;
     max-width: 100%;
   }
