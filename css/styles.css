@@ -562,12 +562,12 @@ img#site-title {
 }
 
 .slideshow li {
-  max-width: 800px; /*660*/
-  height: 800px; /*auto*/
+  width: 100%; /*660*/
+  height: 100%; /*auto*/
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: -380px 0 0 -400px;
+  margin: -280px 0 0 -400px;
   visibility: hidden;
 }
 
@@ -1007,7 +1007,7 @@ blockquote .small {
   }
 
   .slideshow li figure img {
-    width: auto;FnavbR
+    width: auto;
     margin: 0 auto;
     max-width: 100%;
   }
