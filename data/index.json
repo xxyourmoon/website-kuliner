@@ -1,7 +1,6 @@
 {
     "kuliner": [
         {
-            "namaMakanan": "Soto",
             "toko": "Soto Khas Semarang Pak Man",
             "lokasi": "Jl. Pamularsih Raya No.32, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",
             "jamBuka": "07:00 - 19:00",
@@ -35,7 +34,6 @@
             "noTelpn": "081228277896"
         },
         {
-            "namaMakanan": "Es Puter",
             "toko": "Es Puter Cong Lik",
             "lokasi": "Jl. Kh Ahmad Dahlan No.11, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah",
             "jamBuka": "18:00 - 23:30",
@@ -48,11 +46,11 @@
                 "rekomendasi": "-",
                 "makanan": "-",
                 "minuman": {
-                    "durian": "25.000",
-                    "alpokat": "15.000",
-                    "kopyor": "25.000",
-                    "theler": "25.000",
-                    "kacangHijau": "15.000"
+                    "minuman1": "Durian : Rp 25.000",
+                    "minuman2": "Alpokat : Rp 15.000",
+                    "minuman3": "Kopyor : Rp 25.000",
+                    "minuman4": "Theler : Rp 25.000",
+                    "minuman5": "Es Milo : Rp 15.000"
                 }
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/es-puter-conglik-26878e9b-2bb2-45cc-bc74-79deb275d1fc",
@@ -61,7 +59,6 @@
             "noTelpn": "0248443619"
         },
         {
-            "namaMakanan": "Lumpia",
             "toko": "Loenpia Mbak Lien",
             "lokasi": "Jl. Pemuda No.1, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50138",
             "jamBuka": "08:30 - 21:30",
@@ -72,20 +69,20 @@
             },
             "harga": {
                 "rekomendasi": {
-                    "loenpiaOriginal": "16.000",
-                    "loenpiaOnigiri": "15.000"
+                    "rekomendasi1": "Loenpia Original : Rp 16.000",
+                    "rekomendasi2": "Loenpia Onigiri : Rp 15.000"
                 },
                 "makanan": {
-                    "loenpiaSpecial": "17.000",
-                    "loenpiaWesternJamur": "18.000",
-                    "loenpiaSeafoodKepitingJamur": "23.000",
-                    "loenpiaWesternBeefTeppan": "19.000"
+                    "makanan1": "Loenpia Special : Rp 17.000",
+                    "makanan2": "Loenpia Western Jamur : Rp 18.000",
+                    "makanan3": "Loenpia Seafood Kepiting Jamur : Rp 23.000",
+                    "makanan4": "Loenpia Western Beef Teppan : Rp 19.000"
                 },
                 "minuman": {
-                    "esHotKopiLatte": "18.000",
-                    "esHotJahe": "15.000",
-                    "esHotMilo": "18.000",
-                    "esHotTehTawar": "9.000"
+                    "minuman1": "Es Hot Kopi Latte : Rp 18.000",
+                    "minuman2": "Es Hot Jahe : Rp 15.000",
+                    "minuman3": "Es Hot Milo : Rp 18.000",
+                    "minuman4": "Es Hot Teh Tawar : Rp 9.000"
                 }
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/loenpia-mbak-lien-semarang-tengah-893cfa5e-0d17-46de-9775-1608cddb3314",
@@ -94,7 +91,6 @@
             "noTelpn": "0243580734"
         },
         {
-            "namaMakanan": "Mie Kopyok",
             "toko": "Mi Kopyok Pak Dhuwur",
             "lokasi": "Jl. Tanjung No.18A, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
             "jamBuka": "08:00 - 16:00",
@@ -105,15 +101,15 @@
             },
             "harga": {
                 "rekomendasi": {
-                    "miKopyok": "18.750"
+                    "rekomendasi1": "Mi Kopyok : Rp 18.750"
                 },
                 "makanan": {
-                    "miKopyokJumbo": "22.500",
-                    "kerupukKarak": "2.000"
+                    "makanan1": "Mi Kopyok Jumbo : Rp 22.500",
+                    "makanan2": "kerupukKarak : Rp 2.000"
                 },
                 "minuman": {
-                    "esTeh": "3.750",
-                    "esJruk": "6.250"
+                    "minuman1": "Es Teh : Rp 3.750",
+                    "minuman2": "Es Jeruk : Rp 6.250"
                 }
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/mie-kopyok-pak-dhuwur-tanjung-cbef15d1-b994-44ca-a1c6-cfacc9e20e2b",
