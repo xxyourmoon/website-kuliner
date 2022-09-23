@@ -43,8 +43,8 @@
                 "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/eb7cc98b-c590-42fc-aa34-63ba436b36fb_2dcb447a-5f71-40f9-99c9-2b97dcbfe1de.jpg?auto=format"
             ],
             "harga": {
-                "rekomendasi": [],
-                "makanan": [],
+                "rekomendasi": ["-"],
+                "makanan": ["-"],
                 "minuman": [
                     "Durian : Rp 25.000",
                     "Alpokat : Rp 15.000",
@@ -124,9 +124,9 @@
                 "https://lh5.googleusercontent.com/p/AF1QipOWNykbpG7_DgT6dmFvnqr6GjwJyK-z5T9pNbPm=w254-h254-k-no"
             ],
             "harga": {
-                "rekomendasi": [],
-                "makanan": [],
-                "minuman": []
+                "rekomendasi": ["-"],
+                "makanan": ["-"],
+                "minuman": ["-"]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/bakso-pak-i-ok-tulus-harapan-9950ae66-7577-4ae4-ab15-2f6642676952",
             "maps": "https://www.google.com/maps/place/BAKSO+PAK+IK'OK/@-7.0357921,110.4714568,15z/data=!4m2!3m1!1s0x0:0xa9eeddf77fc6140b?sa=X&ved=2ahUKEwjUsqPEuKj6AhU0TmwGHVaTAF8Q_BJ6BAhhEAU",
@@ -153,7 +153,7 @@
                     "Hitam keju coklat kacang : Rp 43.000",
                     "Kue Bandung Keju coklat kacang : Rp 40.000"
                 ],
-                "minuman": []
+                "minuman": ["-"]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/martabak-kue-bandung-pak-agus-tembalang-a18ed1d8-489c-4fc5-9d14-e257d8b11e05",
             "maps": "https://www.google.com/maps/place/Martabak+dan+Kue+Bandung+Pak+Agus/@-7.037008,110.4695704,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708c34e461051f:0xe2716ed45709f63f!8m2!3d-7.037008!4d110.4717591",
@@ -161,7 +161,7 @@
             "noTelpn": "08157607336"
         },
         {
-            "toko": " Tahu Gimbal dan Ketoprak Abizard",
+            "toko": "Tahu Gimbal dan Ketoprak Abizard",
             "lokasi": "Jl. Puspowarno Selatan 2 No.23, Salamanmloyo, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50149",
             "jamBuka": "24 Jam",
             "gambar": [
@@ -242,9 +242,7 @@
                     "Tahu Walik (5 pcs) : Rp 25.000",
                     "Lumpia Semarang/pcs : Rp 18.000"
                 ],
-                "minuman": [
-                    
-                ]
+                "minuman": ["-"]
             },
             "gofood": "https://gofood.co.id/jakarta/restaurant/tahu-petis-yudhistira-0eec9f90-0b12-46d8-9101-f3cc7f859d09",
             "maps": "https://www.google.com/maps/place/Tahu+Petis+Yudhistira+-+Semarang/@-6.9819511,110.4073881,15z/data=!4m5!3m4!1s0x0:0xc15d030021713feb!8m2!3d-6.9819308!4d110.4074121",
@@ -282,6 +280,450 @@
             "maps": "https://www.google.com/maps/place/Ayam+Goreng+Suharti+Krapyak/@-6.9884601,110.3665305,15z/data=!4m2!3m1!1s0x0:0x218d2607e32ea899?sa=X&ved=2ahUKEwiAgoDjsKr6AhVbFLcAHVqdAz0Q_BJ6BAhjEAU",
             "website": "https://ayam-goreng-suharti.business.site/",
             "noTelpn": "0247603345"
+        },
+        {
+            "toko": "Tahu Pong Karangsaru",
+            "lokasi": "Jl. Pringgading No.11D, Brumbungan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50135",
+            "jamBuka": "11:15 - 20:30",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Komplit Kopyok : Rp 70.000"
+                ],
+                "makanan": [
+                    "Gimbal Telur : Rp 21.000",
+                    "Gimbal : Rp 21.000",
+                    "Komplit Pong Emplek, Gimbal, Telur : Rp 40.000",
+                    "Pong Telur : Rp 21.000"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 3.000",
+                    "Es Jeruk : Rp 4.000",
+                    "Es Jus : Rp 5.000",
+                    "Es Marimas : Rp 2.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/tahu-pong-karangsaru-8ce933f1-e900-42f3-a3ee-767961af2723",
+            "maps": "https://www.google.com/maps/place/Tahu+Pong+Karangsaru/@-6.9835299,110.4279072,15z/data=!4m5!3m4!1s0x0:0xbc5959b2e8b7cdd2!8m2!3d-6.9835299!4d110.4279072",
+            "website": "https://www.instagram.com/tahupongkarangsarusemarang/",
+            "noTelpn": "085101347317"
+        },
+        {
+            "toko": "Roti Pelangi, Singosari",
+            "lokasi": "Jl. Singosari Raya No.45, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241",
+            "jamBuka": "07:00 – 22:30",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Ayam Goreng Madu Ekor (Kampung) : Rp 150.000",
+                    "Cheese Chiffon B : Rp 68.000"
+                ],
+                "makanan": [
+                    "Ayam Siap Goreng 1 Ekor (Vacum/Jantan) : Rp 94.000",
+                    "Holland Risolles Frozen 8 Pcs : Rp 42.000",
+                    "Bitter Ballen Frozen 8 Pcs : Rp 42.000",
+                    "Galanti Frozen 4 Pcs Saos 500ml : Rp 73.500"
+                ],
+                "minuman": [
+                    "Es Kopi Susu : Rp 20.000",
+                    "Ice Cream Waffle : Rp 16.000",
+                    "Ice Cream Pom Pom : Rp 16.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/pelangi-oleh-oleh-singosari-4e461ca1-7c6c-41be-ab4f-f4c5cebbd29a",
+            "maps": "https://www.google.com/maps/uv?pb=!1s0x2e708c9e08860ebb%3A0xb033c0e5aeb9616e!3m1!7e115!4s%2Fmaps%2Fplace%2FRoti%2BPelangi%2C%2BSingosari%2F%40-7.0002407%2C110.4268587%2C3a%2C75y%2C326.7h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s-KqMAJxBy-lRcd5lSAVYwQ*212e0*214m2*213m1*211s0x2e708c9e08860ebb%3A0xb033c0e5aeb9616e%3Fsa%3DX!5sRoti%20Pelangi%2C%20Singosari%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e2!2s-KqMAJxBy-lRcd5lSAVYwQ&hl=id&sa=X&ved=2ahUKEwjxmaW80qr6AhWAcGwGHS5RByUQpx96BAh-EAg&cshid=1663926916317193",
+            "website": "https://www.instagram.com/pelangicafe_smg/?hl=id",
+            "noTelpn": "0248314772"
+        },
+        {
+            "toko": "Sate Kambing Pak Amat Thamrin",
+            "lokasi": "Jl. MH Thamrin No.23, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
+            "jamBuka": "10:45 - 20:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Sate Daging 1 porsi : Rp 90.000",
+                    "Bestie Daging 1 porsi : Rp 90.000"
+                ],
+                "makanan": [
+                    "Sate Campur 1 porsi : Rp 90.000",
+                    "Tongseng Kepala campur 1 porsi : Rp 80.000",
+                    "Tongseng balungan 1 porsi : Rp 55.000"
+                ],
+                "minuman": [
+                    "jeruk :  Rp 12.000",
+                    "Softdrink : Rp 6.000",
+                    "Teh Manis : Rp 5.000",
+                    "Teh tawar : Rp 3.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/sate-kambing-dan-tongseng-pak-amat-thamrin-491e1b02-b2d4-45cb-98ee-b23b9bf5ac21",
+            "maps": "https://www.google.com/maps/uv?pb=!1s0x2e708b517546ae91%3A0xb42e377e43442527!3m1!7e115!4s%2Fmaps%2Fplace%2FSate%2BKambing%2BPak%2BAmat%2BThamrin%2F%40-6.9819819%2C110.4175038%2C3a%2C75y%2C303.24h%2C90t%2Fdata%3D*213m4*211e1*213m2*211syp7HsPqRL8fJcGdFkvbbdw*212e0*214m2*213m1*211s0x2e708b517546ae91%3A0xb42e377e43442527%3Fsa%3DX!5sSate%20Kambing%20Pak%20Amat%20Thamrin%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e2!2syp7HsPqRL8fJcGdFkvbbdw&hl=id&sa=X&ved=2ahUKEwj8yram-Kr6AhUJJrcAHfGIC84Qpx96BAhWEAg",
+            "website": "https://sate-kambing-pak-amat.business.site/",
+            "noTelpn": "02486041750"
+        },
+        {
+            "toko": "Sate Ayam & Sate Kambing Madura Bang Ali, Genuk",
+            "lokasi": "Jl. Malangsari No.33, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 5016",
+            "jamBuka": "05:30 - 09:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Sate Ayam 10 tusuk : Rp 20.700",
+                    "Sate Ayam 15 tusuk : Rp 32.000"
+                ],
+                "makanan": [
+                    "Sate ayam 20 tusuk : Rp 45.000",
+                    "Lontong : Rp5.000",
+                    "Sate Ayam 15 tusuk : Rp 32.000"
+                ],
+                "minuman": [
+                    "Teh manis/es : Rp 5.000",
+                    "Teh manis/panas : Rp 5.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/sate-ayam-sate-kambing-madura-bang-ali-genuk-40093777-57dc-43f9-a4be-7aff818d5f91",
+            "maps": "https://www.google.com/maps/uv?pb=!1s0x2e708d002e4eb40f%3A0x38eba2d5696616d0!3m1!7e115!4s%2Fmaps%2Fplace%2FJl.%2BMuktiharjo%2BRaya%2C%2BBangetayu%2BKulon%2C%2BGenuk%2C%2BSemarang%2BSate%2BAyam%2B%2526%2BSate%2BKambing%2BMadura%2BBang%2BAli%2C%2BGenuk%2F%40-6.9802499%2C110.4538255%2C3a%2C75y%2C118.62h%2C90t%2Fdata%3D*213m4*211e1*213m2*211snD24WAMegWuBFle8CTrCGw*212e0*214m2*213m1*211s0x2e708d002e4eb40f%3A0x38eba2d5696616d0%3Fsa%3DX!5sJl.%20Muktiharjo%20Raya%2C%20Bangetayu%20Kulon%2C%20Genuk%2C%20Semarang%20Sate%20Ayam%20%26%20Sate%20Kambing%20Madura%20Bang%20Ali%2C%20Genuk%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e2!2snD24WAMegWuBFle8CTrCGw&hl=id&sa=X&ved=2ahUKEwiUqoiZ-6r6AhXO83MBHXT-Bm4Qpx96BAhWEAg",
+            "website": "https://www.dimanaja.com/daftar-menu/gofood-sate-ayam-sate-kambing-khas-madura-bang-ali-muktiharjo-raya-e38ab50d6b3139991cd177af38b997c59667fdb4-r",
+            "noTelpn": "-"
+        },
+        {
+            "toko": "Roti gedhe Thamrin",
+            "lokasi": "Jl. MH Thamrin No.84, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",
+            "jamBuka": "09:00 - 21:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Roti Gedhe Butter Cream : Rp 22.000",
+                    "Roti Gedhe Oreo : Rp 23.000"
+                ],
+                "makanan": [
+                    "Roti Gedhe Coklat : Rp 23.00",
+                    "Roti Gedhe susu keju : Rp 25.00"
+                ],
+                "minuman": [
+                    "-"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/roti-gembong-gedhe-thamrin-2e170ce2-dc3f-4a4e-9197-cc9e7377c8e4",
+            "maps": "https://www.google.com/maps/place/Roti+Gedhe+Thamrin/@-6.9821873,110.4176884,15z/data=!4m5!3m4!1s0x0:0x65c0ff1419e9afd!8m2!3d-6.9821875!4d110.4176834",
+            "website": "https://www.rotigembonggedhe.com/",
+            "noTelpn": "082312437733"
+        },
+        {
+            "toko": "Pempek Ny.Kamto",
+            "lokasi": "Jl. Pemuda No.150, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
+            "jamBuka": "10:00 - 22:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Pempek Lenjer : Rp 13.500",
+                    "Pempek Kulit : Rp 13. 500"
+                ],
+                "makanan": [
+                    "Pempek Tahu : Rp 13. 500",
+                    "Mie Tahu : Rp 25.000",
+                    "Paket Mini : Rp 31.000",
+                    "Pempek Kriting : Rp 14.500"
+                ],
+                "minuman": [
+                    "Teh Tawar : Rp 8.000",
+                    "Es Teh Manis : Rp 9.500",
+                    "Teh Hangat : Rp 9.500",
+                    "Air Mineral 600 Mi : Rp 8.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/pempek-ny-kamto-dp-mall-821c617d-6121-43a5-aef5-399c37da5067",
+            "maps": "https://www.google.com/maps/place/Pempek+Ny.+Kamto/@-7.7219941,109.7139679,10z/data=!4m9!1m2!2m1!1sPempek+Ny.Kamto!3m5!1s0x2e7a8fcdefff0fa3:0x9f5a7b20200d7bc1!8m2!3d-7.5039467!4d110.2250536!15sCg9QZW1wZWsgTnkuS2FtdG9aESIPcGVtcGVrIG55IGthbXRvkgERcGVtcGVrX3Jlc3RhdXJhbnTgAQA",
+            "website": "https://pempeknykamto.com/",
+            "noTelpn": "02486578057"
+        },
+        {
+            "toko": "Soto Ayam Pak No [KURANG YAKIN]",
+            "lokasi": "Jl. Wismasari selatan no 6 ngaliyan 50181",
+            "jamBuka": ":07:00 - 19:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Nasi, Soto Ayam : Rp 15.000",
+                    "Soto Ayam Tanpa Nasi : Rp 15.000"
+                ],
+                "makanan": [
+                    "Tempe : Rp 2.500",
+                    "Sate Telur : Rp 6000",
+                    "Perkedel : Rp 3000",
+                    "Sate kerang : Rp 6000"
+                ],
+                "minuman": [
+                    "Jeruk Hangat : Rp 5.000",
+                    "Es jeruk manis : Rp 5.000",
+                    "Es teh : Rp 4.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/soto-ayam-pak-no-jl-wismasari-selatan-no-6-ngaliyan-f5af1bc4-763f-4810-b421-29901fcb423d",
+            "maps": "-",
+            "website": "https://menukuliner.net/menu/874539/soto-ayam-pak-nojlwismasari-selatan-no6-ngaliyan",
+            "noTelpn": "082133950534"
+        },
+        {
+            "toko": "Nasi Goreng Babat Pak Karmin Mberok Legendaris",
+            "lokasi": "Jl. Pemuda No.2, Dadapsari, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50188",
+            "jamBuka": "09:00 - 21:45",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Nasi Goreng Babat + Telur Dadar : Rp 33.000",
+                    "Nasi Goreng Babat : Rp 30.000"
+                ],
+                "makanan": [
+                    "Nasi Goreng Babat + Telur Dadar FREE Nestle Bear Brand : Rp 43.000",
+                    "Nasi Goreng Telor FREE Nestle Bear Brand : Rp 30.000",
+                    "Nasi Babat Gongso + Telur Dadar FREE Nestle Bear Brand : Rp 51.000"
+                ],
+                "minuman": [
+                    "Es teh : Rp 7.000",
+                    "Es jeruk : Rp 15.000",
+                    "Jeruk Hangat : Rp 15.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/nasi-goreng-babat-pak-karmin-mberok-pemuda-8e047f9e-2258-4720-8942-87011fddc48d",
+            "maps": "https://www.google.com/maps/place/Nasi+Goreng+Babat+Pak+Karmin+Mberok+Legendaris/@-6.9691441,110.425022,15z/data=!4m5!3m4!1s0x0:0x55328cbffba9503!8m2!3d-6.9691634!4d110.4249987",
+            "website": "https://nasigorengbabat.business.site/",
+            "noTelpn": "0243563334"
+        },
+        {
+            "toko": "Kue Pukis Rizki [KURANG YAKIN]",
+            "lokasi": " Jl.Menoreh raya no.9 rt01/rw01 sampangan, gajah mungkur",
+            "jamBuka": "15:00 - 22:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Pukis original : Rp 1.400",
+                    "Pukis grentea : Rp 2.000"
+                ],
+                "makanan": [
+                    "Pukis tiramisu : Rp 1.500",
+                    "Pukis tiramisu keju : Rp 2.000",
+                    "Pukis coklat keju : Rp 2.000",
+                    "singkong keju parut + susu + misis : RP 19.000"
+                ],
+                "minuman": [
+                    "-"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/rizki-pukis-dan-singkong-keju-jl-menoreh-raya-88838d9b-592a-4b46-b48d-547b063f4eb0",
+            "maps": "https://www.google.com/maps/place/Jl.+Menoreh+Raya+No.9,+Sampangan,+Kec.+Gajahmungkur,+Kota+Semarang,+Jawa+Tengah+50232/@-7.008968,110.3944493,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b0e44c5b0b1:0x1b4e6b610ca98231!8m2!3d-7.008968!4d110.3944493",
+            "website": "-",
+            "noTelpn": "-"
+        },
+        {
+            "toko": "Ayam Goreng Pemenang – Candi [KURANG YAKIN]",
+            "lokasi": "Jl. Tegalsari Tim. I No.17, Tegalsari, Kec. Candisari, Kota Semarang, Jawa Tengah 50257",
+            "jamBuka": "00:00 - 23.59",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Nasi ayam dada goreng rempah : Rp 16.500",
+                    "Ayam goreng serundeng : Rp 14.000"
+                ],
+                "makanan": [
+                    "Nasi telur penyet : Rp 12.000",
+                    "Lunch box nasi ayam bumbu kecap : Rp 22.000",
+                    "Nasi ayam suwir kemangi : Rp 22.000",
+                    "Nasi ayam sambal matah : Rp 17.000"
+                ],
+                "minuman": [
+                    "Es teh manis : Rp 5.000",
+                    "Air mineral 600ml : Rp 6.500",
+                    "Teh anget : Rp 3.500",
+                    "Es the tawar : Rp 3.000"
+                ]
+            },
+            "gofood": "-",
+            "maps": "-",
+            "website": "-",
+            "noTelpn": "-"
+        },
+        {
+            "toko": "Pondok Prasmanan Panuwun",
+            "lokasi": "Jl. Puspanjolo Tengah Raya No.81A, Cabean, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50141",
+            "jamBuka": "06:00 - 14:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Sego kotak bandeng presto : Rp 21.850",
+                    "Udang cabe ijo : Rp 19.550"
+                ],
+                "makanan": [
+                    "Udang goreng tepung : Rp 19. 550",
+                    "Jamur goreng tepung Rp 10.350",
+                    "Trancam : Rp 6.900",
+                    "Balado terong Rp 5.750"
+                ],
+                "minuman": [
+                    "Es teh/ teh panas : Rp 5.175",
+                    "Es jeruk/ jeruk panas : Rp 6.900",
+                    "Es cao : Rp 9.200",
+                    "Es kolak pisang : Rp 9.775"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/pondok-prasmanan-panuwun-pusponjolo-tengah-2f07c7c1-d514-48c7-9203-bd9233150e09",
+            "maps": "https://www.google.com/maps/place/Pondok+Prasmanan+Panuwun/@-6.9765243,110.3817329,15z/data=!4m9!1m2!2m1!1sgofood+Pondok+prasmanan+panuwun!3m5!1s0x2e708b3662582b71:0xe4c08c55aa2e6d01!8m2!3d-6.9822161!4d110.3995969!15sCh9nb2Zvb2QgUG9uZG9rIHByYXNtYW5hbiBwYW51d3VuWiEiH2dvZm9vZCBwb25kb2sgcHJhc21hbmFuIHBhbnV3dW6SARFidWZmZXRfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSdE1VOVlUVFJuUlJBQuABAA",
+            "website": "-",
+            "noTelpn": "08562911156"
+        },
+        {
+            "toko": "Swike Pojokan Mas Sony",
+            "lokasi": "Jl. Argorejo, Kalibanteng Kulon, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50145",
+            "jamBuka": "14:00 - 02:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Swike kuah kodok sedang : Rp 37.500",
+                    "Swike goreng kodok sedang : Rp 37.500"
+                ],
+                "makanan": [
+                    "Swike kuah kodok sedang : Rp 37.500",
+                    "Swike goreng kodok sedang : RP 37.500",
+                    "Swike kuah kodok besar : Rp 45.000",
+                    "Swike goreng kodok besar : Rp 45.000"
+                ],
+                "minuman": [
+                    "Es teh : Rp 4000",
+                    "Teh panas : Rp 3.500",
+                    "jeruk panas : Rp 5.000",
+                    "Es jeruk : Rp 5.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/swike-pojok-an-mas-sony-kalibanteng-88a0751c-32df-4198-b384-60c7f7e140f1",
+            "maps": "https://www.google.com/maps/place/Swike+Pojokan+Mas+Sony/@-6.9969369,110.3423197,14z/data=!4m9!1m2!2m1!1sgofood+swike+pojokan+mas+sony!3m5!1s0x2e708b27fb9ac8d7:0xc44f16f099093d9!8m2!3d-6.9878234!4d110.3790356!15sCh1nb2Zvb2Qgc3dpa2UgcG9qb2thbiBtYXMgc29ueVofIh1nb2Zvb2Qgc3dpa2UgcG9qb2thbiBtYXMgc29ueZIBCnJlc3RhdXJhbnTgAQA",
+            "website": "-",
+            "noTelpn": "085867751488"
+        },
+        {
+            "toko": "Mie Kopyok Pak Dhuwur",
+            "lokasi": "Jl. Tanjung No.18A, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132",
+            "jamBuka": "08:00 - 16:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Mie kopyok : Rp 18.750"
+                ],
+                "makanan": [
+                    "Mie Kopyok Jumbo : Rp 22.500",
+                    "lontong : Rp 5.000",
+                    "kerupuk karat : Rp 2.500"
+                ],
+                "minuman": [
+                    "Es teh : Rp 2.500",
+                    "Es Jeruk : Rp 6.250",
+                    "Air Mineral : Rp 2.500"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/mie-kopyok-pak-dhuwur-tanjung-cbef15d1-b994-44ca-a1c6-cfacc9e20e2b",
+            "maps": "https://www.google.com/maps/place/Mie+Kopyok+Pak+Dhuwur/@-6.997071,110.2897887,12z/data=!4m9!1m2!2m1!1sgofood+Mie+Kopyok+Pak+Dhuwur!3m5!1s0x2e708b52cf686303:0x141b16ddaa802019!8m2!3d-6.976271!4d110.416283!15sChxnb2Zvb2QgTWllIEtvcHlvayBQYWsgRGh1d3VyWh4iHGdvZm9vZCBtaWUga29weW9rIHBhayBkaHV3dXKSAQtub29kbGVfc2hvcOABAA",
+            "website": "https://mie-kopyok-pak-dhuwur.business.site/",
+            "noTelpn": "085641372758"
+        },
+        {
+            "toko": "Ayam & Bebek Goreng Sari Rasa (Pak Thori) [KURANG YAKIN]",
+            "lokasi": "Jl. Raya Manyaran-Gunungpati, Nongkosawit, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50222",
+            "jamBuka": "10:00 - 23:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "-"
+                ],
+                "makanan": [
+                    "Nasi Bebek Goreng : Rp 35.000",
+                    "Nasi Ayam Goreng : Rp 25.000"
+                ],
+                "minuman": [
+                    "-"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/ayam-bebek-goreng-sari-rasa-pak-thori-gunungpati-d64e9222-a100-49f7-8798-d7842f29fb90",
+            "maps": "https://www.google.com/maps/place/Ayam+%26+Bebek+Goreng+%22Sari+Rasa%22+(Pak+Thori)/@-7.0595943,110.3581712,17z/data=!3m1!4b1!4m5!3m4!1s0x2e70898a00c6ecf3:0x39818e725b531772!8m2!3d-7.0595804!4d110.3603229",
+            "website": "-",
+            "noTelpn": "085640999558"
+        },
+        {
+            "toko": "Nasi Koyor Kota Lama",
+            "lokasi": "Jl. Gelatik No.7, Purwodinatan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50137",
+            "jamBuka": "08:30 - 15:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Nasi koyor : Rp 25.000"
+                ],
+                "makanan": [
+                    "Nasi koyor telur : Rp 28.000",
+                    "Nasi koyor babat : Rp 30.000",
+                    "Nasi koyor ayam : Rp 32.000"
+                ],
+                "minuman": [
+                    "Es teh : Rp 3.000",
+                    "The anget : Rp 2.500",
+                    "Jeruk anget : Rp 4.500"
+                ]
+            },
+            "gofood": "-",
+            "maps": "https://www.google.com/maps/place/Warung+Koyor+Kota+Lama/@-6.9685705,110.4258833,17z/data=!3m1!4b1!4m5!3m4!1s0x2e70f35643d808a7:0x477d8bfcc07abb4c!8m2!3d-6.9685738!4d110.4280031?hl=id",
+            "website": "-",
+            "noTelpn": "08135712882"
+        },
+        {
+            "toko": "Tahu Gimbal Pak H.EDY",
+            "lokasi": "Jl. Pandanaran No.2, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249",
+            "jamBuka": "12:00 - 22:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "-"
+                ],
+                "makanan": [
+                    "Tahu gimbal biasa : Rp 12.000",
+                    "Tahu gimbal komplit : Rp 15.000",
+                    "Sate Usus : Rp 5.000",
+                    "Kerupuk Udang : Rp 5.000"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 4.000",
+                    "Teh Anget : Rp 3.000",
+                    "Es Jeruk : Rp 5.000",
+                    "Jeruk anget : Rp 4.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/tahu-gimbal-pak-h-edy-asli-sejak-1971-pandanaran-07e4a7d0-075b-43da-a74d-269094636dad",
+            "maps": "https://www.google.com/maps/place/Tahu+Gimbal+Pak+H.EDY+(yang+asli+pake+H)/@-6.9918658,110.4180519,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b5c2955ab15:0xcc1abedd31238c36!8m2!3d-6.9918658!4d110.4202406",
+            "website": "-",
+            "noTelpn": "081329407509"
+        },
+        {
+            "toko": "Nasi goreng babat gongso Kang Sule",
+            "lokasi": "Jl. Suyudono No.57, Bulustalan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50246",
+            "jamBuka": "18:00 - 23:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "nasi babat gongso : Rp 25.000"
+                ],
+                "makanan": [
+                    "nasi goreng spesial : Rp 27.000",
+                    "nasi goreng babat gongso : Rp 25.000",
+                    "nasi ruwet : Rp 17.000",
+                    "nasi goreng gila: Rp 17.000"
+                ],
+                "minuman": [
+                    "es teh : Rp 3.000",
+                    "teh anget : Rp 2500",
+                    "teh anget : Rp 2500"
+                ]
+            },
+            "gofood": "-",
+            "maps": "https://www.google.com/maps/place/Nasi+goreng+babat+gongso+kang+sule/@-6.986017,110.4031652,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b559bc1deb7:0x2c536a9f7e8036a6!8m2!3d-6.9860074!4d110.4053288",
+            "website": "-",
+            "noTelpn": "08125325143"
         }
     ]
 }
