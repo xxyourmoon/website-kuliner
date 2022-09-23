@@ -191,6 +191,97 @@
             "maps": "https://www.google.com/maps/place/Ketoprak+%22ABIZARD%22/@-6.9879948,110.3941959,15z/data=!4m2!3m1!1s0x0:0x69e80f2a5807348c?sa=X&ved=2ahUKEwiQ6O7lw6j6AhXGRmwGHXVpAe0Q_BJ6BAhTEAU",
             "website": "-",
             "noTelpn": "-"
+        },
+        {
+            "toko": "Sate Ayam dan Kambing Madura cak Yanto",
+            "lokasi": "Jl. Jenderal Sudirman No.73, Krobokan, Kec. Semarang Barat, Kota Semarang, Jawa Tengah 50141",
+            "jamBuka": "07:00 - 23:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7f8e51cf-c7e7-4999-b3d9-0307679afedd_Go-Biz_20220811_120244.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c28c474a-6d53-482c-b855-99c9aee6afc2_Go-Biz_20201102_204818.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/31635659-d256-40c2-bb57-c223a7a63d57_Go-Biz_20201104_111656.jpeg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Sate Ayam 10 tusuk : Rp 22.150",
+                    "Sate Kambing 10 tusuk : Rp 44.000"
+                ],
+                "makanan": [
+                    "Sate Ayam : Rp 22.150",
+                    "Sate Kambing : Rp 44.000",
+                    "Sate Sapi : Rp 22.400"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 5.000",
+                    "Es Jeruk : Rp 7.000",
+                    "Teh Panas Tawar : Rp 4.000",
+                    "Teh Panas Manis : Rp 5.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/sate-ayam-dan-sate-kambing-madura-cak-yanto-6d7d20cd-7d2d-470e-9db8-d6551d5dde5d",
+            "maps": "https://www.google.com/maps/place/Sate+ayam+dan+kambing+Madura+cak+yanto/@-6.9805245,110.4008603,15z/data=!4m2!3m1!1s0x0:0x9dbe849f8b167a6d?sa=X&ved=2ahUKEwiqm6iC5an6AhV-UGwGHRP3BosQ_BJ6BAhMEAU",
+            "website": "-",
+            "noTelpn": "087736735571"
+        },
+        {
+            "toko": "Tahu Petis Yudhistira",
+            "lokasi": "Jl. Yudistira No.21, Pendrikan Kidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50131",
+            "jamBuka": "09:00 - 20:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1c900976-9b1a-4fa5-931f-c3540f47edb1_dee38a51-10e3-4bcc-926e-cd3a6f6c26a1_file20190926-15956-k9sgeb.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4e97226a-a191-4b6e-83d5-4e10502eca73_c4514c90-eb35-4258-9fa3-6ce4b91c32b2_file20190723-29235-12645k1.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/392f95b7-dca3-48ed-8525-331f2d98d9b8_73c4b464-0028-40d8-803e-4e89954bdc6e.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Tahu Walik (5 pcs) : Rp 25.000",
+                    "Tahu Bakso (5 Pcs) : Rp 30.000"
+                ],
+                "makanan": [
+                    "Tahu Petis (10 pcs) : Rp 50.000",
+                    "Tahu Walik (5 pcs) : Rp 25.000",
+                    "Lumpia Semarang/pcs : Rp 18.000"
+                ],
+                "minuman": [
+                    
+                ]
+            },
+            "gofood": "https://gofood.co.id/jakarta/restaurant/tahu-petis-yudhistira-0eec9f90-0b12-46d8-9101-f3cc7f859d09",
+            "maps": "https://www.google.com/maps/place/Tahu+Petis+Yudhistira+-+Semarang/@-6.9819511,110.4073881,15z/data=!4m5!3m4!1s0x0:0xc15d030021713feb!8m2!3d-6.9819308!4d110.4074121",
+            "website": "https://tahupetisyudhistira.business.site/",
+            "noTelpn": "081289900123"
+        },
+        {
+            "toko": "Ayam Goreng Suharti Krapyak",
+            "lokasi": "Jl. Siliwangi No.576, Purwoyoso, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50184",
+            "jamBuka": "09:00 - 21:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/27fa4bf6-5cb6-4c28-9f09-a9f93210edae_25bda75d-d5d4-4907-97ad-e6713144bb55.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a1633046-a94d-4613-8e0e-88cf750c4077_e3417154-9638-409c-a801-aa60999d9cce.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/720559b7-2d6c-4f52-87d9-198f7b8806c6_31ccca25-793a-4255-aafc-33941b5ab916.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Nasi Gudeg : Rp 24.000",
+                    "Nasi Ayam : Rp 30.000"
+                ],
+                "makanan": [
+                    "Nasi Gudeg : Rp 24.000",
+                    "Nasi Ayam : Rp 40.000",
+                    "Nasi Rames : Rp 24.000",
+                    "Gudeg Kendil : Rp 100.000"
+                ],
+                "minuman": [
+                    "Jus Alpukat : Rp 18.000",
+                    "Jus Melo : Rp 14.000",
+                    "Jus Jambu : Rp 16.000",
+                    "Jus Kopyor : Rp 24.200"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/ayam-goreng-suharti-siliwangi-704c0e2c-8633-403c-82b3-ffd03228329a",
+            "maps": "https://www.google.com/maps/place/Ayam+Goreng+Suharti+Krapyak/@-6.9884601,110.3665305,15z/data=!4m2!3m1!1s0x0:0x218d2607e32ea899?sa=X&ved=2ahUKEwiAgoDjsKr6AhVbFLcAHVqdAz0Q_BJ6BAhjEAU",
+            "website": "https://ayam-goreng-suharti.business.site/",
+            "noTelpn": "0247603345"
         }
     ]
 }
