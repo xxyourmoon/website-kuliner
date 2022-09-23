@@ -126,7 +126,7 @@
             "harga": {
                 "rekomendasi": [],
                 "makanan": [],
-                "minuman": []
+                "minuman": ["-"]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/bakso-pak-i-ok-tulus-harapan-9950ae66-7577-4ae4-ab15-2f6642676952",
             "maps": "https://www.google.com/maps/place/BAKSO+PAK+IK'OK/@-7.0357921,110.4714568,15z/data=!4m2!3m1!1s0x0:0xa9eeddf77fc6140b?sa=X&ved=2ahUKEwjUsqPEuKj6AhU0TmwGHVaTAF8Q_BJ6BAhhEAU",
@@ -153,7 +153,7 @@
                     "Hitam keju coklat kacang : Rp 43.000",
                     "Kue Bandung Keju coklat kacang : Rp 40.000"
                 ],
-                "minuman": []
+                "minuman": ["-"]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/martabak-kue-bandung-pak-agus-tembalang-a18ed1d8-489c-4fc5-9d14-e257d8b11e05",
             "maps": "https://www.google.com/maps/place/Martabak+dan+Kue+Bandung+Pak+Agus/@-7.037008,110.4695704,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708c34e461051f:0xe2716ed45709f63f!8m2!3d-7.037008!4d110.4717591",
