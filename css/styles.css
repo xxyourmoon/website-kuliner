@@ -566,7 +566,7 @@ img#site-title {
   position: absolute;
   top: 500px;
   left: 50%;
-  margin: -380px 0 0 -350px;
+  margin: -380px 0 0 -395px;
   visibility: hidden;
 }
 
@@ -592,23 +592,33 @@ img#site-title {
   -webkit-transition: opacity 0.3s, visibility 0s 0.3s;
   transition: opacity 0.3s, visibility 0s 0.3s;
 }
-table, td{  
-  border: 2px solid #ddd;
-  text-align: justify;
+table,
+th,
+td {
+  border: 3px solid rgb(46, 15, 0);
 }
-
+th,
+td {
+  color: #333;
+  text-align: left;
+  padding: 5px;
+}
+th {
+  font-weight: bold;
+  font-size: 17px;
+}
+td {
+  font-size: 12px;
+}
 table {
-  width: 100%;
+  border: 3px solid rgb(46, 15, 0);
+  width: 402px;
   position: relative;
-  top: 7px;
-}
-
-th, td {
-  padding: 10px;
+  border-collapse: collapse;
+  top: 124px;
 }
 .slideshow figure {
-  width: 700px;
-  height: auto;
+  width: 800px;
   background: #fff;
   overflow: hidden;
   position: relative;
@@ -618,6 +628,7 @@ th, td {
   width: 350px;
   height: auto;
   position: relative;
+  bottom: 145px;
 }
 .slideshow figcaption {
   width: 300px;
@@ -631,7 +642,8 @@ th, td {
   width: 350px;
   height: 385px;
   position: relative;
-  top: 20px;
+  top: 279px;
+  right: 354px;
 }
 /*TEXT : NAMA TOKO*/
 .slideshow figcaption h3 {
@@ -1005,7 +1017,7 @@ blockquote .small {
   .lu-section-title {
     font-size: 45px;
   }
-  .slideshow figure{
+  .slideshow figure {
     height: 600px;
   }
   .slideshow figure iframe {
