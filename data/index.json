@@ -43,8 +43,12 @@
                 "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/eb7cc98b-c590-42fc-aa34-63ba436b36fb_2dcb447a-5f71-40f9-99c9-2b97dcbfe1de.jpg?auto=format"
             ],
             "harga": {
-                "rekomendasi": ["-"],
-                "makanan": ["-"],
+                "rekomendasi": [
+                    "-"
+                ],
+                "makanan": [
+                    "-"
+                ],
                 "minuman": [
                     "Durian : Rp 25.000",
                     "Alpokat : Rp 15.000",
@@ -69,15 +73,15 @@
             ],
             "harga": {
                 "rekomendasi": [
-                    "Loenpia Original : Rp 16.000", 
+                    "Loenpia Original : Rp 16.000",
                     "Loenpia Onigiri : Rp 15.000"
                 ],
                 "makanan": [
-                    "Loenpia Special : Rp 17.000", 
-                    "Loenpia Western Jamur : Rp 18.000", 
-                    "Loenpia Seafood Kepiting Jamur : Rp 23.000", 
+                    "Loenpia Special : Rp 17.000",
+                    "Loenpia Western Jamur : Rp 18.000",
+                    "Loenpia Seafood Kepiting Jamur : Rp 23.000",
                     "Loenpia Western Beef Teppan : Rp 19.000"
-            ],
+                ],
                 "minuman": [
                     "Es Hot Kopi Latte : Rp 18.000",
                     "Es Hot Jahe : Rp 15.000",
@@ -100,13 +104,15 @@
                 "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4f8a7cf0-dac4-4d2e-9158-92042062c491_Go-Biz_20211004_075249.jpeg?auto=format"
             ],
             "harga": {
-                "rekomendasi": ["Mi Kopyok : Rp 18.750"],
+                "rekomendasi": [
+                    "Mi Kopyok : Rp 18.750"
+                ],
                 "makanan": [
-                    "Mi Kopyok Jumbo : Rp 22.500", 
+                    "Mi Kopyok Jumbo : Rp 22.500",
                     "kerupukKarak : Rp 2.000"
                 ],
                 "minuman": [
-                    "Es Teh : Rp 3.750", 
+                    "Es Teh : Rp 3.750",
                     "Es Jeruk : Rp 6.250"
                 ]
             },
@@ -135,7 +141,9 @@
                     "Hitam keju coklat kacang : Rp 43.000",
                     "Kue Bandung Keju coklat kacang : Rp 40.000"
                 ],
-                "minuman": ["-"]
+                "minuman": [
+                    "-"
+                ]
             },
             "gofood": "https://gofood.co.id/semarang/restaurant/martabak-kue-bandung-pak-agus-tembalang-a18ed1d8-489c-4fc5-9d14-e257d8b11e05",
             "maps": "https://www.google.com/maps/place/Martabak+dan+Kue+Bandung+Pak+Agus/@-7.037008,110.4695704,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708c34e461051f:0xe2716ed45709f63f!8m2!3d-7.037008!4d110.4717591",
@@ -224,7 +232,9 @@
                     "Tahu Walik (5 pcs) : Rp 25.000",
                     "Lumpia Semarang/pcs : Rp 18.000"
                 ],
-                "minuman": ["-"]
+                "minuman": [
+                    "-"
+                ]
             },
             "gofood": "https://gofood.co.id/jakarta/restaurant/tahu-petis-yudhistira-0eec9f90-0b12-46d8-9101-f3cc7f859d09",
             "maps": "https://www.google.com/maps/place/Tahu+Petis+Yudhistira+-+Semarang/@-6.9819511,110.4073881,15z/data=!4m5!3m4!1s0x0:0xc15d030021713feb!8m2!3d-6.9819308!4d110.4074121",
@@ -631,9 +641,7 @@
             "toko": "Nasi Koyor Kota Lama [KURANG]",
             "lokasi": "Jl. Gelatik No.7, Purwodinatan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50137",
             "jamBuka": "08:30 - 15:00",
-            "gambar": [
-
-            ],
+            "gambar": [],
             "harga": {
                 "rekomendasi": [
                     "Nasi Koyor : Rp 25.000"
@@ -689,9 +697,7 @@
             "toko": "Nasi Goreng Babat Gongso Kang Sule [KURANG]",
             "lokasi": "Jl. Suyudono No.57, Bulustalan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50246",
             "jamBuka": "18:00 - 23:00",
-            "gambar": [
-                
-            ],
+            "gambar": [],
             "harga": {
                 "rekomendasi": [
                     "Nasi Babat Gongso : Rp 25.000"
@@ -712,6 +718,95 @@
             "maps": "https://www.google.com/maps/place/Nasi+goreng+babat+gongso+kang+sule/@-6.986017,110.4031652,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b559bc1deb7:0x2c536a9f7e8036a6!8m2!3d-6.9860074!4d110.4053288",
             "website": "-",
             "noTelpn": "08125325143"
+        },
+        {
+            "toko": "Extreme Kuliner Semarang",
+            "lokasi": "Jl. Pamularsih Raya No.79,Gisikdrono, Kec,Semarang barat,kota Semarang,Jawa Tengah 50149",
+            "jamBuka": "09:00 - 20:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Tengkleng Kambing Solo : Rp 40.000",
+                    "Nasi Goreng Telur : Rp 13.000",
+                    "Rawon : Rp 40.000"
+                ],
+                "makanan": [
+                    "Tengkleng Kambing Solo : Rp 40.000",
+                    "Nasi Goreng Telur : Rp 13.000",
+                    "Rawon : Rp 40.000",
+                    "Soto Bathok : Rp 12.000"
+                ],
+                "minuman": [
+                    "Es Jeruk : Rp 5.000",
+                    "Es Teh Manis : Rp 4.000",
+                    "Es Teler : Rp 10.000"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/warung-makan-kuliner-extreme-tengkleng-solo-ec032f05-cd01-486e-84c2-58fc348ba8fc",
+            "maps": "https://www.google.com/maps/place/Extreme+Kuliner+Semarang/@-6.9873724,110.3874544,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b57ab2b9d41:0x92e4b7200b0a32f!8m2!3d-6.9873724!4d110.3896431",
+            "website": "-",
+            "noTelpn": "082137009991"
+        },
+        {
+            "toko": "Toko soto Bangkong",
+            "lokasi": "Jl. Brigjen Katamso No.1, Peterongan,Kec. Semarang sel, kota Semarang,Jawa tengah 50242",
+            "jamBuka": "07:00 - 22:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/718b7c08-eae6-4c85-93a4-790c0ff079fc_a90383ab-0701-4c9d-bba8-0a7c706df7b2_Go-Resto_20180712_143237.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ce494f39-4869-4578-b709-79b9f0df99d8_ab301ea8-84e4-4722-bd80-843903b07863_Go-Resto_20180712_142541.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/146034eb-4a79-4638-ae14-c15e6c5aecbc_a961652e-1366-4ac2-a237-6d23024302ec_Go-Resto_20180712_141646.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "-"
+                ],
+                "makanan": [
+                    "Soto Nasi : Rp 17.600",
+                    "Soto Nasi Putih : Rp 23.100",
+                    "Karam Asem : Rp 22.000",
+                    "Ayam Goreng 1 Potong : Rp 18.700"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 4.400",
+                    "Es Jeruk : Rp 8.800"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/-soto-ayam-bangkong--827f1b63-6a6b-4e44-9c8d-6a8b034c3846",
+            "maps": "https://www.google.com/maps/place/Soto+Bangkong/@-6.99459,110.4302369,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708ca20cb04b0d:0xef8f159b4e62e46!8m2!3d-6.99459!4d110.4324256",
+            "website": "https://www.sotobangkong.com/",
+            "noTelpn": "0248412842"
+        },
+        {
+            "toko": "Rawon Surabaya Bu Marie, Ventura Food Court",
+            "lokasi": "Jl. Ki Mangunsarkoro Depan Stadion Diponegoro No.15, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50136",
+            "jamBuka": "08:00 - 16:30",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/398a64e7-8ab7-4052-b4f4-f1703966e9d6_Go-Biz_20200718_101330.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/962a363a-23ec-4da3-bd63-c75c6b479965_0a6d91c2-144c-4b6b-a426-bdf2b91cb60e.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/43de2463-1a56-4804-9ff0-2893fd134683_18ae639d-84ac-4ff2-b0a1-aa480ad2f7a6.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Rawon Paru : Rp 28.750",
+                    "Rawon Iga : Rp 46.000"
+                ],
+                "makanan": [
+                    "Nasi Cumi Madura : Rp 32.200",
+                    "Rawon Empal : Rp 39.900",
+                    "Rawon Daging : Rp 28.750",
+                    "Rawon Holic : Rp 54.050"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 5.750",
+                    "Es Jeruk : Rp 9.200",
+                    "Jeruh Hangat : Rp 8.050",
+                    "Teh Manis Hangat : Rp 4.600"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/rawon-surabaya-bu-marie-ventura-food-court-33377bfc-456a-43e9-a1ee-c7c1848c0722",
+            "maps": "https://www.google.com/maps/place/Warung+Surabaya+Bu+Marie/@-6.989949,110.4289682,15z/data=!4m2!3m1!1s0x0:0x98fdcfe0e063dc91?sa=X&ved=2ahUKEwjrjIuVr6z6AhXjDbcAHUjzD_QQ_BJ6BAhBEAU",
+            "website": "http://www.rawonsurabaya.com/",
+            "noTelpn": "081575300000"
         }
     ]
 }
