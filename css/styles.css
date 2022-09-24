@@ -645,28 +645,6 @@ table {
   top: 279px;
   right: 354px;
 }
-/*TEXT : NAMA TOKO*/
-.slideshow figcaption h3 {
-  color: #333;
-  font-size: 23px;
-  font-weight: bold;
-}
-/*TEXT : LOKASI, JAM BUKA, MENU DAN HARGA (TITLE)*/
-.slideshow figcaption h4 {
-  font-weight: 500;
-  color: #333;
-  font-size: 15px;
-}
-/*TEXT : DESC MENU DAN HARGA*/
-.slideshow figcaption .menu {
-  width: 240px;
-  height: auto;
-  position: relative;
-  left: 90px;
-  bottom: 30px;
-  text-align: justify;
-  font-weight: 500;
-}
 /* Navigation */
 .slideshow nav span {
   position: fixed;
