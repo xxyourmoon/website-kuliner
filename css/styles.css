@@ -615,12 +615,7 @@ table {
   width: 402px;
   position: relative;
   border-collapse: collapse;
-  top: 124px;
-}
-.slideshow figcaption #card-icon {
-  position: relative;
-  width: 40px;
-  top: 150px;
+  top: 152px;
 }
 .slideshow figure {
   width: 800px;
@@ -629,7 +624,7 @@ table {
   position: relative;
   border: 16px solid #fff;
 }
-.slideshow figure #food-image {
+.slideshow figure img {
   width: 350px;
   height: auto;
   position: relative;
