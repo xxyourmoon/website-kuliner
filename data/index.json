@@ -31,6 +31,7 @@
             "gofood": "https://gofood.co.id/surabaya/restaurant/soto-ayam-khas-semarang-pak-man-lakarsantri-c3f6f3f6-a05d-4abf-84fe-e07f1194faf3",
             "maps": "https://www.google.com/maps/place/Soto+Ayam+Khas+Semarang+Pak+Man/data=!3m1!4b1!4m2!3m1!1s0x2e708b3a91d9be51:0x4e27f0b8d844b985",
             "website": "https://business.google.com/website/sotoayamkhassemarangpakman",
+            "ratingToko": "",
             "noTelpn": "081228277896"
         },
         {
@@ -60,6 +61,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/es-puter-conglik-26878e9b-2bb2-45cc-bc74-79deb275d1fc",
             "maps": "https://www.google.com/maps/place/Es+Puter+Cong+Lik/@-6.9892491,110.425663,15z/data=!4m2!3m1!1s0x0:0xadc38b9d3616d1d9?sa=X&ved=2ahUKEwjetaqlgqb6AhXYRmwGHaiaDhUQ_BJ6BAhFEAU",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "0248443619"
         },
         {
@@ -92,6 +94,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/loenpia-mbak-lien-semarang-tengah-893cfa5e-0d17-46de-9775-1608cddb3314",
             "maps": "https://www.google.com/maps/place/Loenpia+Mbak+Lien/@-6.972929,110.4211819,15z/data=!4m2!3m1!1s0x0:0x34dbdfb2bcc656aa?sa=X&ved=2ahUKEwj62bCe6aX6AhUwR2wGHRvGA4gQ_BJ6BAhtEAU",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "0243580734"
         },
         {
@@ -119,6 +122,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/mie-kopyok-pak-dhuwur-tanjung-cbef15d1-b994-44ca-a1c6-cfacc9e20e2b",
             "maps": "https://www.google.com/maps/place/Mie+Kopyok+Pak+Dhuwur/@-6.976271,110.416283,15z/data=!4m2!3m1!1s0x0:0x141b16ddaa802019?sa=X&ved=2ahUKEwj6xNLa6qX6AhW9TGwGHdvZA4sQ_BJ6BAhEEAU",
             "website": "https://mie-kopyok-pak-dhuwur.business.site/",
+            "ratingToko": "",
             "noTelpn": "085641372758"
         },
         {
@@ -148,6 +152,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/martabak-kue-bandung-pak-agus-tembalang-a18ed1d8-489c-4fc5-9d14-e257d8b11e05",
             "maps": "https://www.google.com/maps/place/Martabak+dan+Kue+Bandung+Pak+Agus/@-7.037008,110.4695704,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708c34e461051f:0xe2716ed45709f63f!8m2!3d-7.037008!4d110.4717591",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "08157607336"
         },
         {
@@ -180,6 +185,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/tahu-gimbal-dan-ketoprak-abizard-puspowarno-0b008d28-fcd8-4fe2-a4dd-2dc32b9dbab5",
             "maps": "https://www.google.com/maps/place/Ketoprak+%22ABIZARD%22/@-6.9879948,110.3941959,15z/data=!4m2!3m1!1s0x0:0x69e80f2a5807348c?sa=X&ved=2ahUKEwiQ6O7lw6j6AhXGRmwGHXVpAe0Q_BJ6BAhTEAU",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "-"
         },
         {
@@ -211,6 +217,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/sate-ayam-dan-sate-kambing-madura-cak-yanto-6d7d20cd-7d2d-470e-9db8-d6551d5dde5d",
             "maps": "https://www.google.com/maps/place/Sate+ayam+dan+kambing+Madura+cak+yanto/@-6.9805245,110.4008603,15z/data=!4m2!3m1!1s0x0:0x9dbe849f8b167a6d?sa=X&ved=2ahUKEwiqm6iC5an6AhV-UGwGHRP3BosQ_BJ6BAhMEAU",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "087736735571"
         },
         {
@@ -239,6 +246,7 @@
             "gofood": "https://gofood.co.id/jakarta/restaurant/tahu-petis-yudhistira-0eec9f90-0b12-46d8-9101-f3cc7f859d09",
             "maps": "https://www.google.com/maps/place/Tahu+Petis+Yudhistira+-+Semarang/@-6.9819511,110.4073881,15z/data=!4m5!3m4!1s0x0:0xc15d030021713feb!8m2!3d-6.9819308!4d110.4074121",
             "website": "https://tahupetisyudhistira.business.site/",
+            "ratingToko": "",
             "noTelpn": "081289900123"
         },
         {
@@ -271,6 +279,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/ayam-goreng-suharti-siliwangi-704c0e2c-8633-403c-82b3-ffd03228329a",
             "maps": "https://www.google.com/maps/place/Ayam+Goreng+Suharti+Krapyak/@-6.9884601,110.3665305,15z/data=!4m2!3m1!1s0x0:0x218d2607e32ea899?sa=X&ved=2ahUKEwiAgoDjsKr6AhVbFLcAHVqdAz0Q_BJ6BAhjEAU",
             "website": "https://ayam-goreng-suharti.business.site/",
+            "ratingToko": "",
             "noTelpn": "0247603345"
         },
         {
@@ -302,6 +311,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/tahu-pong-karangsaru-8ce933f1-e900-42f3-a3ee-767961af2723",
             "maps": "https://www.google.com/maps/place/Tahu+Pong+Karangsaru/@-6.9835299,110.4279072,15z/data=!4m5!3m4!1s0x0:0xbc5959b2e8b7cdd2!8m2!3d-6.9835299!4d110.4279072",
             "website": "https://www.instagram.com/tahupongkarangsarusemarang/",
+            "ratingToko": "",
             "noTelpn": "085101347317"
         },
         {
@@ -333,6 +343,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/pelangi-oleh-oleh-singosari-4e461ca1-7c6c-41be-ab4f-f4c5cebbd29a",
             "maps": "https://www.google.com/maps/uv?pb=!1s0x2e708c9e08860ebb%3A0xb033c0e5aeb9616e!3m1!7e115!4s%2Fmaps%2Fplace%2FRoti%2BPelangi%2C%2BSingosari%2F%40-7.0002407%2C110.4268587%2C3a%2C75y%2C326.7h%2C90t%2Fdata%3D*213m4*211e1*213m2*211s-KqMAJxBy-lRcd5lSAVYwQ*212e0*214m2*213m1*211s0x2e708c9e08860ebb%3A0xb033c0e5aeb9616e%3Fsa%3DX!5sRoti%20Pelangi%2C%20Singosari%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e2!2s-KqMAJxBy-lRcd5lSAVYwQ&hl=id&sa=X&ved=2ahUKEwjxmaW80qr6AhWAcGwGHS5RByUQpx96BAh-EAg&cshid=1663926916317193",
             "website": "https://www.instagram.com/pelangicafe_smg/?hl=id",
+            "ratingToko": "",
             "noTelpn": "0248314772"
         },
         {
@@ -364,6 +375,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/sate-kambing-dan-tongseng-pak-amat-thamrin-491e1b02-b2d4-45cb-98ee-b23b9bf5ac21",
             "maps": "https://www.google.com/maps/uv?pb=!1s0x2e708b517546ae91%3A0xb42e377e43442527!3m1!7e115!4s%2Fmaps%2Fplace%2FSate%2BKambing%2BPak%2BAmat%2BThamrin%2F%40-6.9819819%2C110.4175038%2C3a%2C75y%2C303.24h%2C90t%2Fdata%3D*213m4*211e1*213m2*211syp7HsPqRL8fJcGdFkvbbdw*212e0*214m2*213m1*211s0x2e708b517546ae91%3A0xb42e377e43442527%3Fsa%3DX!5sSate%20Kambing%20Pak%20Amat%20Thamrin%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e2!2syp7HsPqRL8fJcGdFkvbbdw&hl=id&sa=X&ved=2ahUKEwj8yram-Kr6AhUJJrcAHfGIC84Qpx96BAhWEAg",
             "website": "https://sate-kambing-pak-amat.business.site/",
+            "ratingToko": "",
             "noTelpn": "02486041750"
         },
         {
@@ -393,6 +405,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/sate-ayam-sate-kambing-madura-bang-ali-genuk-40093777-57dc-43f9-a4be-7aff818d5f91",
             "maps": "https://www.google.com/maps/uv?pb=!1s0x2e708d002e4eb40f%3A0x38eba2d5696616d0!3m1!7e115!4s%2Fmaps%2Fplace%2FJl.%2BMuktiharjo%2BRaya%2C%2BBangetayu%2BKulon%2C%2BGenuk%2C%2BSemarang%2BSate%2BAyam%2B%2526%2BSate%2BKambing%2BMadura%2BBang%2BAli%2C%2BGenuk%2F%40-6.9802499%2C110.4538255%2C3a%2C75y%2C118.62h%2C90t%2Fdata%3D*213m4*211e1*213m2*211snD24WAMegWuBFle8CTrCGw*212e0*214m2*213m1*211s0x2e708d002e4eb40f%3A0x38eba2d5696616d0%3Fsa%3DX!5sJl.%20Muktiharjo%20Raya%2C%20Bangetayu%20Kulon%2C%20Genuk%2C%20Semarang%20Sate%20Ayam%20%26%20Sate%20Kambing%20Madura%20Bang%20Ali%2C%20Genuk%20-%20Penelusuran%20Google!15sCgIgAQ&imagekey=!1e2!2snD24WAMegWuBFle8CTrCGw&hl=id&sa=X&ved=2ahUKEwiUqoiZ-6r6AhXO83MBHXT-Bm4Qpx96BAhWEAg",
             "website": "https://www.dimanaja.com/daftar-menu/gofood-sate-ayam-sate-kambing-khas-madura-bang-ali-muktiharjo-raya-e38ab50d6b3139991cd177af38b997c59667fdb4-r",
+            "ratingToko": "",
             "noTelpn": "-"
         },
         {
@@ -420,6 +433,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/roti-gembong-gedhe-thamrin-2e170ce2-dc3f-4a4e-9197-cc9e7377c8e4",
             "maps": "https://www.google.com/maps/place/Roti+Gedhe+Thamrin/@-6.9821873,110.4176884,15z/data=!4m5!3m4!1s0x0:0x65c0ff1419e9afd!8m2!3d-6.9821875!4d110.4176834",
             "website": "https://www.rotigembonggedhe.com/",
+            "ratingToko": "",
             "noTelpn": "082312437733"
         },
         {
@@ -452,6 +466,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/pempek-ny-kamto-dp-mall-821c617d-6121-43a5-aef5-399c37da5067",
             "maps": "https://www.google.com/maps/place/Pempek+Ny.+Kamto/@-7.7219941,109.7139679,10z/data=!4m9!1m2!2m1!1sPempek+Ny.Kamto!3m5!1s0x2e7a8fcdefff0fa3:0x9f5a7b20200d7bc1!8m2!3d-7.5039467!4d110.2250536!15sCg9QZW1wZWsgTnkuS2FtdG9aESIPcGVtcGVrIG55IGthbXRvkgERcGVtcGVrX3Jlc3RhdXJhbnTgAQA",
             "website": "https://pempeknykamto.com/",
+            "ratingToko": "",
             "noTelpn": "02486578057"
         },
         {
@@ -483,6 +498,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/soto-ayam-pak-no-jl-wismasari-selatan-no-6-ngaliyan-f5af1bc4-763f-4810-b421-29901fcb423d",
             "maps": "https://www.google.com/maps/place/6%C2%B059'56.0%22S+110%C2%B020'49.6%22E/@-6.9987452,110.3471249,21z/data=!4m5!3m4!1s0x0:0xc8447955edcbb643!8m2!3d-6.998898!4d110.347107?hl=en",
             "website": "https://menukuliner.net/menu/874539/soto-ayam-pak-nojlwismasari-selatan-no6-ngaliyan",
+            "ratingToko": "",
             "noTelpn": "082133950534"
         },
         {
@@ -513,6 +529,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/nasi-goreng-babat-pak-karmin-mberok-pemuda-8e047f9e-2258-4720-8942-87011fddc48d",
             "maps": "https://www.google.com/maps/place/Nasi+Goreng+Babat+Pak+Karmin+Mberok+Legendaris/@-6.9691441,110.425022,15z/data=!4m5!3m4!1s0x0:0x55328cbffba9503!8m2!3d-6.9691634!4d110.4249987",
             "website": "https://nasigorengbabat.business.site/",
+            "ratingToko": "",
             "noTelpn": "0243563334"
         },
         {
@@ -542,6 +559,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/rizki-pukis-dan-singkong-keju-jl-menoreh-raya-88838d9b-592a-4b46-b48d-547b063f4eb0",
             "maps": "https://www.google.com/maps/place/Jl.+Menoreh+Raya+No.9,+Sampangan,+Kec.+Gajahmungkur,+Kota+Semarang,+Jawa+Tengah+50232/@-7.008968,110.3944493,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b0e44c5b0b1:0x1b4e6b610ca98231!8m2!3d-7.008968!4d110.3944493",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "085640470927"
         },
         {
@@ -574,6 +592,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/pondok-prasmanan-panuwun-pusponjolo-tengah-2f07c7c1-d514-48c7-9203-bd9233150e09",
             "maps": "https://www.google.com/maps/place/Pondok+Prasmanan+Panuwun/@-6.9765243,110.3817329,15z/data=!4m9!1m2!2m1!1sgofood+Pondok+prasmanan+panuwun!3m5!1s0x2e708b3662582b71:0xe4c08c55aa2e6d01!8m2!3d-6.9822161!4d110.3995969!15sCh9nb2Zvb2QgUG9uZG9rIHByYXNtYW5hbiBwYW51d3VuWiEiH2dvZm9vZCBwb25kb2sgcHJhc21hbmFuIHBhbnV3dW6SARFidWZmZXRfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSdE1VOVlUVFJuUlJBQuABAA",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "08562911156"
         },
         {
@@ -606,6 +625,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/swike-pojok-an-mas-sony-kalibanteng-88a0751c-32df-4198-b384-60c7f7e140f1",
             "maps": "https://www.google.com/maps/place/Swike+Pojokan+Mas+Sony/@-6.9969369,110.3423197,14z/data=!4m9!1m2!2m1!1sgofood+swike+pojokan+mas+sony!3m5!1s0x2e708b27fb9ac8d7:0xc44f16f099093d9!8m2!3d-6.9878234!4d110.3790356!15sCh1nb2Zvb2Qgc3dpa2UgcG9qb2thbiBtYXMgc29ueVofIh1nb2Zvb2Qgc3dpa2UgcG9qb2thbiBtYXMgc29ueZIBCnJlc3RhdXJhbnTgAQA",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "085867751488"
         },
         {
@@ -635,6 +655,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/mie-kopyok-pak-dhuwur-tanjung-cbef15d1-b994-44ca-a1c6-cfacc9e20e2b",
             "maps": "https://www.google.com/maps/place/Mie+Kopyok+Pak+Dhuwur/@-6.997071,110.2897887,12z/data=!4m9!1m2!2m1!1sgofood+Mie+Kopyok+Pak+Dhuwur!3m5!1s0x2e708b52cf686303:0x141b16ddaa802019!8m2!3d-6.976271!4d110.416283!15sChxnb2Zvb2QgTWllIEtvcHlvayBQYWsgRGh1d3VyWh4iHGdvZm9vZCBtaWUga29weW9rIHBhayBkaHV3dXKSAQtub29kbGVfc2hvcOABAA",
             "website": "https://mie-kopyok-pak-dhuwur.business.site/",
+            "ratingToko": "",
             "noTelpn": "085641372758"
         },
         {
@@ -660,6 +681,7 @@
             "gofood": "-",
             "maps": "https://www.google.com/maps/place/Warung+Koyor+Kota+Lama/@-6.9685705,110.4258833,17z/data=!3m1!4b1!4m5!3m4!1s0x2e70f35643d808a7:0x477d8bfcc07abb4c!8m2!3d-6.9685738!4d110.4280031?hl=id",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "08135712882"
         },
         {
@@ -691,6 +713,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/tahu-gimbal-pak-h-edy-asli-sejak-1971-pandanaran-07e4a7d0-075b-43da-a74d-269094636dad",
             "maps": "https://www.google.com/maps/place/Tahu+Gimbal+Pak+H.EDY+(yang+asli+pake+H)/@-6.9918658,110.4180519,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b5c2955ab15:0xcc1abedd31238c36!8m2!3d-6.9918658!4d110.4202406",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "081329407509"
         },
         {
@@ -717,6 +740,7 @@
             "gofood": "-",
             "maps": "https://www.google.com/maps/place/Nasi+goreng+babat+gongso+kang+sule/@-6.986017,110.4031652,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b559bc1deb7:0x2c536a9f7e8036a6!8m2!3d-6.9860074!4d110.4053288",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "08125325143"
         },
         {
@@ -745,6 +769,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/warung-makan-kuliner-extreme-tengkleng-solo-ec032f05-cd01-486e-84c2-58fc348ba8fc",
             "maps": "https://www.google.com/maps/place/Extreme+Kuliner+Semarang/@-6.9873724,110.3874544,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b57ab2b9d41:0x92e4b7200b0a32f!8m2!3d-6.9873724!4d110.3896431",
             "website": "-",
+            "ratingToko": "",
             "noTelpn": "082137009991"
         },
         {
@@ -774,6 +799,7 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/-soto-ayam-bangkong--827f1b63-6a6b-4e44-9c8d-6a8b034c3846",
             "maps": "https://www.google.com/maps/place/Soto+Bangkong/@-6.99459,110.4302369,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708ca20cb04b0d:0xef8f159b4e62e46!8m2!3d-6.99459!4d110.4324256",
             "website": "https://www.sotobangkong.com/",
+            "ratingToko": "",
             "noTelpn": "0248412842"
         },
         {
@@ -806,7 +832,246 @@
             "gofood": "https://gofood.co.id/semarang/restaurant/rawon-surabaya-bu-marie-ventura-food-court-33377bfc-456a-43e9-a1ee-c7c1848c0722",
             "maps": "https://www.google.com/maps/place/Warung+Surabaya+Bu+Marie/@-6.989949,110.4289682,15z/data=!4m2!3m1!1s0x0:0x98fdcfe0e063dc91?sa=X&ved=2ahUKEwjrjIuVr6z6AhXjDbcAHUjzD_QQ_BJ6BAhBEAU",
             "website": "http://www.rawonsurabaya.com/",
+            "ratingToko": "",
             "noTelpn": "081575300000"
+        },
+        {
+            "toko": "Kedai Seafood Ngaliyan",
+            "lokasi": "Jl. Karonsih Selatan X no. 710 Ngaliyan. Kec. Ngaliyan Semarang",
+            "jamBuka": "09:00 - 22:00",
+            "gambar": [
+                "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE2021022204342226377/photo/menueditor_item_9b8b70adc3be41ca909def35100b3fb7_1613966903888486990.jpg",
+                "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE2020092107532146503/photo/c9d0b651265b4d1487427a72a0edbbc5_1649318348139703641.jpg",
+                "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE2020110113243644466/photo/633c8b9d129a4cc088bdd3d5038f8ec3_1606842735019852691.jpg"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Paket Udang Saos Pedas / Asam Manis : Rp 25.000",
+                    "Paket Gurami Bakar / Goreng : Rp 39.000"
+                ],
+                "makanan": [
+                    "Paket Gurami Bakar : Rp 39.000",
+                    "Paket Cumi saos pedas : Rp 25.000",
+                    "Patin Bakar : Rp 17.000",
+                    "Bawal Bakar : Rp 19.000"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 6.000",
+                    "Susu Putih : Rp 5.000",
+                    "Coklat panas : Rp 5.000"
+                ]
+            },
+            "gofood": "https://food.grab.com/id/id/restaurant/kedai-seafood-ngaliyan-delivery/6-CZLUNRMTTFJWEJ",
+            "maps": "https://www.google.com/maps/place/Kedai+Seafood/@-6.9976914,110.321339,14z/data=!4m9!1m2!2m1!1sKedai+Seafood+ngaliyan!3m5!1s0x2e708abf6b68661b:0x9b7aa3c666fec143!8m2!3d-6.9952785!4d110.3533801!15sChZLZWRhaSBTZWFmb29kIG5nYWxpeWFuWhgiFmtlZGFpIHNlYWZvb2QgbmdhbGl5YW6SAQpyZXN0YXVyYW504AEA",
+            "website": "-",
+            "ratingToko": "",
+            "noTelpn": "-"
+        },
+        {
+            "toko": "Korean Chicken & Mie Seafood Dafie - Ngaliyan",
+            "lokasi": "Jl. Taman Karonsih Selatan 1 No 581 Rt 011, Rw 06 Ngaliyan. Kec. Ngaliyan ",
+            "jamBuka": "24 Jam",
+            "gambar": [
+                "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/IDITE2021101201030519437/detail/menueditor_item_78a033a950c44bdd8d0815f48a211ef5_1634000579420385095.webp",
+                "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/IDITE2021030902031445813/detail/menueditor_item_3c325e78e28f4c67a4996932a37f1f58_1615255388890695399.webp",
+                "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/IDGFSTI000026bh-CYNARYXZDFDTAA/detail/menueditor_item_b42c1c2858e64f2e9ff32d5714ab7254_1616983381214180831.webp"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Korean Spicy Chicken Cheese : Rp 19.500",
+                    "Rice Chicken Katsu : Rp 19.199"
+                ],
+                "makanan": [
+                    "Korean Spicy Chicken Cheese : Rp 19.500",
+                    "Hotdog Sosis Gemuk : Rp 12.499",
+                    "Potato Chicken Katsu : Rp 17.999"
+                ],
+                "minuman": [
+                    "Ice blend Taro : Rp 6.999",
+                    "Jus Jambu : Rp 6.900",
+                    "Ice blend Choco : Rp 6.999"
+                ]
+            },
+            "gofood": "https://food.grab.com/id/id/restaurant/dapoer-geprek-taichan-dafie-ngaliyan-delivery/IDGFSTI000026bh",
+            "maps": "https://www.google.com/maps/place/Dapoer+Geprek+%26+Taichan+DaFiE/@-7.002589,110.3537678,15z/data=!4m2!3m1!1s0x0:0xaf38f19442588d0e?sa=X&ved=2ahUKEwjjl7zovqz6AhWJRWwGHWZQAFoQ_BJ6BAg5EAU",
+            "website": "https://www.instagram.com/home_food_resto_dafie/",
+            "ratingToko": "",
+            "noTelpn": "085640102260"
+        },
+        {
+            "toko": "Soto Ayam Mbak Tiah Gunungpati",
+            "lokasi": "Jl. Raya Manyaran, Gunungpati, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50225",
+            "jamBuka": "06:00 – 15:30",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d76668e7-82ad-4220-9de0-d614e6d8bb9b_cb5672bc-7a13-43f1-a3b8-e66c51f2d1d9_master-menu-item-image_1576501897820.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Soto : Rp 7.000",
+                    "Nasi Soto : RP 8.000"
+                 ],
+                "makanan": [
+                    "Soto : Rp 7.000",
+                    "Nasi Soto : Rp 8.000",
+                    "Sate : Rp 4.000",
+                    "Sate Telur : Rp 3.000"
+                 ],
+                "minuman": [
+                    "Es Teh : Rp 5.000",
+                    "Teh Hangat : Rp 5.000",
+                    "Es Jeruk : Rp 7.000"
+                 ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/soto-ayam-kampung-mbak-tiah-gunungpati-3a0a9ba9-ff75-4980-ae6f-8a1722394847",
+            "maps": "https://www.google.com/maps/place/Soto+Ayam+Mbak+Tiah+Gunungpati/@-7.0852416,110.361342,15z/data=!4m5!3m4!1s0x0:0x5edc89be450122ed!8m2!3d-7.0852416!4d110.361342",
+            "website": "-",
+            "ratingToko": "",
+            "noTelpn": "081326662278"
+        },
+        {
+            "toko": "Mie Ayam dan Bakso Pak Zam",
+            "lokasi": "Jl. Jedung Raya, Nongkosawit, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50224",
+            "jamBuka": "08:00 – 20:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c1ddb5d8-fb24-4799-bd37-e80860fe9f52_Go-Biz_20210524_143608.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/20852ad8-1fc2-4377-8a5e-b0d0794f9048_Go-Biz_20210524_143151.jpeg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/afdf6d6a-295f-44e2-9b47-387477e66626_Go-Biz_20210524_143641.jpeg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Mie Ayam Kuah : Rp 16.000",
+                    "Mie Ayam Kuah Bakso Urat : Rp 26.500"
+                 ],
+                "makanan": [
+                    "Mie Ayam Bakso Kuah Bakso Kecil : Rp 26.500",
+                    "Mie Ayam Kuah Bakso Kombo : Rp 33.500",
+                    "Mie Hitam Kuah : Rp 18.000",
+                    "Miyago : Rp 18.000"
+                 ],
+                "minuman": [
+                    "Teh Panas : Rp 4.000",
+                    "Es teh : Rp 4.000",
+                    "Jeruk Panas : Rp 5.000",
+                    "Es Jeruk : Rp 5.000"
+                 ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/mie-ayam-dan-bakso-pak-zam-0ee43623-0386-432e-8513-3e7ce956b4cc",
+            "maps": "https://www.google.com/maps/place/Mie+Ayam+dan+Bakso+Pak+Zam/@-7.0760334,110.3679119,15z/data=!4m2!3m1!1s0x0:0x51cc581b7972ebdc?sa=X&ved=2ahUKEwjZ0e6A06z6AhW0yXMBHfLNCgcQ_BJ6BAg6EAU",
+            "website": "-",
+            "ratingToko": "",
+            "noTelpn": "-"
+        },
+        {
+            "toko": "Lumpia Gang Lombok Pak Kho",
+            "lokasi": "Gang Lombok Nomor 11, Purwodinatan, Kecamatan Semarang Tengah, Kota Semarang",
+            "jamBuka": "08:00 - 17:00",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9ecd905d-8b74-4577-ae6f-283719a14558_4296cccd-0b4d-429a-afaa-0bb3db14c069_Go-Resto_20190116_180232.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8e34fd00-179c-45d7-99a4-44dc3ea377e7_70e89600-da2c-4979-869f-d3ab6f9a6147_Go-Resto_20190118_135455.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8e2c7f3f-f117-43df-a1ec-2eb353399078_a0a15209-3f79-4c0c-964d-5d74df73b75a_Go-Resto_20190116_180149.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Lumpia 1 Besek Basah Original (10pcs) : Rp 195.000",
+                    "Lumpia Goreng Original (Rebung, Udang, Telor) : Rp 20.000"
+                 ],
+                "makanan": [
+                    "Lumpia 1 Besek Basah Original (10pcs) : Rp 195.000",
+                    "Lumpia Goreng Original (Rebung, Udang, Telor) : Rp 20.000",
+                    "Lumpia Goreng Ayam (rebung,ayam,telor) : Rp 20.000"
+                 ],
+                "minuman": ["-"]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/lumpia-koh-hoo-generasi-3-lumpia-gang-lombok-puri-anjasmoro-d1778541-0d45-4f88-8e61-cc4df1c23175",
+            "maps": "https://www.google.com/maps/place/Lumpia+Gang+Lombok/@-6.9744064,110.427962,15z/data=!4m2!3m1!1s0x0:0x8d8d0da5ebb94c1b?sa=X&ved=2ahUKEwjgudC51Kz6AhXNUGwGHbXWBE8Q_BJ6BAhfEAU",
+            "website": "-",
+            "ratingToko": "",
+            "noTelpn": "08164881194"
+        },
+        {
+            "toko": "Kuliner Semarang Mie Ramor Tempat Makan Mie dan Bakso Di Semarang",
+            "lokasi": "Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",
+            "jamBuka": "10:00 - 21:30",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Mie Ayam Yamin Original : Rp 25.000",
+                    "Combo Bakso Campur : Rp 27.000"
+                 ],
+                "makanan": [
+                    "Combo Nasi Ayam Lada Hitam : Rp 39.000",
+                    "Combo Komplit Mie Ayam Jamur : Rp 37.000",
+                    "Mie Ayam Yamin Cabe Pedas : Rp 25.000",
+                    "Combo Monster Bakso Keju : Rp 48.000"
+                 ],
+                "minuman": [
+                    "Es Teler : Rp 19.500",
+                    "Lychee Tea : Rp 15.000",
+                    "Es Cendol : Rp 19.500"
+                 ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/mie-ramor-tri-lomba-juang-4d0b5aa9-744a-40c9-92d7-fffadecd2917",
+            "maps": "https://www.google.com/maps/place/Kuliner+Semarang+Mie+Ramor+Tempat+Makan+Mie+dan+Bakso+Enak+di+Semarang/@-6.9887747,110.4179611,15z/data=!4m2!3m1!1s0x0:0x3e34732c554d6478?sa=X&ved=2ahUKEwi7-9Kl8az6AhXe23MBHYayCSUQ_BJ6BAg8EAU",
+            "website": "-",
+            "ratingToko": "",
+            "noTelpn": "02476443030"
+        },
+        {
+            "toko": "Kebab Tukino’s [BELUM LENGKAP]",
+            "lokasi": "Tambakaji, Ngaliyan, Semarang City, Central Java 50185",
+            "jamBuka": "14:30 – 23:00",
+            "gambar": [],
+            "harga": {
+                "rekomendasi": [
+                    "Double Burger : Rp 18.000",
+                    "Kebab Jumbo : Rp 19.000"
+                ],
+                "makanan": [
+                    "Kebab Mini : Rp 14.000",
+                    "Beef Burger : Rp 13.000",
+                    "Kebab : Rp 16.500",
+                    "Hot Dog : Rp 13.000"
+                ],
+                "minuman": [
+                    "-"
+                ]
+            },
+            "gofood": "",
+            "maps": "https://www.google.com/maps/place/Kebab+Tukino's/@-6.9892023,110.3393569,15z/data=!4m9!1m2!2m1!1sKebab+Tukino's!3m5!1s0x2e708abeb72a3643:0x42ded9b801fb442f!8m2!3d-6.9892055!4d110.3568717!15sCg5LZWJhYiBUdWtpbm8nc1oQIg5rZWJhYiB0dWtpbm8nc5IBCmtlYmFiX3Nob3DgAQA",
+            "website": "",
+            "ratingToko": "",
+            "noTelpn": "085866968855"
+        },
+        {
+            "toko": "Bubur Ayam Bang Doel",
+            "lokasi": "Jl. Telaga Bodas Raya, Karangrejo, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 5023106:00 – 11:30",
+            "jamBuka": "06:00 – 11:30",
+            "gambar": [
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ed77f800-9684-456d-ba2e-5cf0892b3bcd_d5a26666-c160-4859-8da5-b38f870705e5_Go-Resto_20190110_090815.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f58bb8de-d079-4a68-aa0c-5965db89a651_09c5a3b2-cfe1-4849-bc63-c1d72d925022_Go-Resto_20180727_073439.jpg?auto=format",
+                "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a2c237b7-c8f5-4520-a22b-fc0ebc390d04_4fd4bc7c-91c6-4059-9b7e-793389898e31_Go-Resto_20190110_090912.jpg?auto=format"
+            ],
+            "harga": {
+                "rekomendasi": [
+                    "Ceker Tulang Lunak : Rp 16.250",
+                    "Selat Solo : Rp 20.500"
+                ],
+                "makanan": [
+                    "Bubur Ayam Jakarta : Rp 17.000",
+                    "Bubur Ayam Jamur : Rp 21.500",
+                    "Bubur Ayam Semarangan : Rp 21.500"
+                ],
+                "minuman": [
+                    "Es Teh : Rp 4.000",
+                    "Teh Hangat : Rp 4.000",
+                    "Es Jeruk : Rp 6.500",
+                    "Jeruk Hangat : Rp 6.500"
+                ]
+            },
+            "gofood": "https://gofood.co.id/semarang/restaurant/bubur-ayam-bang-doel-telaga-bodas-769c55bd-670d-4f4d-a6e1-fdd8734ec31e",
+            "maps": "https://www.google.com/maps/place/Bubur+Ayam+Bang+Doel/@-7.0252141,110.4090011,17z/data=!3m1!4b1!4m5!3m4!1s0x2e708b8545ba4e2b:0x294fef189eb5f881!8m2!3d-7.0252141!4d110.4111898",
+            "website": "-",
+            "noTelpn": "081222886464"
         }
     ]
 }
