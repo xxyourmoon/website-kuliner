@@ -118,18 +118,14 @@ img {
   -o-transition: 2s all ease-in-out 0.1s;
   transition: 2s all ease-in-out 0.1s;
 }
-
-.btn.btn-hero,
-.btn.btn-hero:hover,
-.btn.btn-hero:focus {
-  color: #f5f5f5;
-  background-color: #db8b0f;
-  border-color: #db8b0f;
-  outline: none;
-  padding: 12px 32px;
-  margin: 20px auto;
-  border-radius: 0px;
-  border-bottom: 4px solid #ff9c00;
+/*MAIN LOGO*/
+img#main-logo {
+  width: 200px;
+  height: auto;
+}
+img#logo-kuliner-semarang {
+  width: 200px;
+  height: auto;
 }
 /********************************/
 /*            Overlay           */
@@ -156,15 +152,15 @@ img {
 }
 
 .fade-carousel .slides .slide-1 {
-  background-image: url("../img/slide1.jpg");
+  background-image: url("../img/slide-bakso.jpg");
 }
 
 .fade-carousel .slides .slide-2 {
-  background-image: url("../img/slide2.jpg");
+  background-image: url("../img/slide-lumpia.jpg");
 }
 
 .fade-carousel .slides .slide-3 {
-  background-image: url("../img/slide3.jpg");
+  background-image: url("../img/slide-bandeng.jpg");
 }
 
 /* carousel */
@@ -427,7 +423,7 @@ img {
 }
 /*-----------Heading-------------*/
 .heading {
-  padding-bottom: 15px;
+  padding-bottom: 80px;
   text-align: center;
   max-width: 960px;
   margin: 0px auto;
@@ -804,7 +800,6 @@ textarea.error {
 .footer .container {
   padding: 60px 0 20px;
 }
-
 .footer ul {
   margin: 0 auto;
   margin-bottom: 30px;
@@ -911,7 +906,7 @@ blockquote cite:before {
 }
 
 .feedback {
-  background: url("../img/img3.jpg");
+  background: url("../img/dummy1.jpg");
 }
 
 .feedback .heading h2 {
@@ -962,7 +957,7 @@ blockquote .small {
 }
 
 .page-section {
-  padding: 80px 0;
+  padding: 115px 0;
 }
 
 /**
