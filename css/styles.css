@@ -486,9 +486,11 @@ img#site-title {
 
 .grid {
   margin: 0 auto;
-  overflow: auto;
 }
-
+.grid-makananMantab{
+  /*overflow: scroll;*/
+  overflow-y: scroll;
+}
 .grid li {
   width: 25%;
   float: left;
