@@ -16,7 +16,7 @@
 // function runProgram() {
 //     getImage()
 //         .then((e) => {
-            
+
 //         })
 // }
 
@@ -30,25 +30,24 @@
 
 // UNTUK OUTPUT BISA DI LIHAT DI CONSOLE GUGEL
 
-
-$.ajax({
-    url: "./data/index.json",
-    success: results => {
-        const dataKuliner = results.kuliner;
-        let cards = ''
-        dataKuliner.forEach((e) => {
-            cards += `<li>
-                        <figure>
-                            <img src="${e.gambar[0]}"/>
-                            <figcaption>
-                                <h3>${e.toko}</h3>
-                            </figcaption>
-                        </figure>
-                    </li>`;
-        });
-        $('ul.grid-makananMantab').html(cards)
-    },
-    error: (e) => {
-        console.log(e)
-    }
-})
+// $.ajax({
+//     url: "./data/index.json",
+//     success: results => {
+//         const dataKuliner = results.kuliner;
+//         let cards = ''
+//         dataKuliner.forEach((e) => {
+//             cards += `<li>
+//                         <figure>
+//                             <img src="${e.gambar[0]}"/>
+//                             <figcaption>
+//                                 <h3>${e.toko}</h3>
+//                             </figcaption>
+//                         </figure>
+//                     </li>`;
+//         });
+//         $('ul.grid-makananMantab').html(cards)
+//     },
+//     error: (e) => {
+//         console.log(e)
+//     }
+// })
