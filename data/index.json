@@ -137,7 +137,7 @@
                 "makanan": [
                     "1. Kue Bandung Coklat kacang : <b>Rp 29.900</b>",
                     "2. Kue Bandung Keju : <b>Rp 33.000</b>",
-                    "3. Kue Bandung Keju coklat : 38.000",
+                    "3. Kue Bandung Keju coklat : <b>38.000</b>",
                     "4. Hitam keju coklat kacang : <b>Rp 43.000</b>",
                     "5. Kue Bandung Keju coklat kacang : <b>Rp 40.000</b>"
                 ],
@@ -259,7 +259,7 @@
                     "1. Nasi Gudeg : <b>Rp 24.000</b>",
                     "2. Nasi Ayam : <b>Rp 40.000</b>",
                     "3. Nasi Rames : <b>Rp 24.000</b>",
-                    "4. Gudeg Kendil : <b>Rp 100.00</b>0"
+                    "4. Gudeg Kendil : <b>Rp 100.000</b>"
                 ],
                 "minuman": [
                     "1. Jus Alpukat : <b>Rp 18.000</b>",
@@ -315,7 +315,7 @@
             ],
             "harga": {
                 "rekomendasi": [
-                    "1. Ayam Goreng Madu Ekor (Kampung) : <b>Rp 150.00</b>0",
+                    "1. Ayam Goreng Madu Ekor (Kampung) : <b>Rp 150.000</b>",
                     "2. Cheese Chiffon B : <b>Rp 68.000</b>"
                 ],
                 "makanan": [
@@ -355,7 +355,7 @@
                     "3. Tongseng Balungan 1 porsi : <b>Rp 55.000</b>"
                 ],
                 "minuman": [
-                    "1. Jeruk :  Rp 12.000",
+                    "1. Jeruk :  <b>Rp 12.000</b>",
                     "2. Softdrink : <b>Rp 6.000</b>",
                     "3. Teh Manis : <b>Rp 5.000</b>",
                     "4. Teh Tawar : <b>Rp 3.000</b>"
@@ -457,7 +457,7 @@
         {
             "toko": "Soto Ayam Pak No",
             "lokasi": "Jl. Wismasari selatan no 6 ngaliyan 50181",
-            "jamBuka": ":07:00 - 19:00",
+            "jamBuka": "07:00 - 19:00",
             "gambar": [
                 "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/31ae460a-740c-43a4-9250-22dd12cbf394_Go-Biz_20210129_082914.jpeg?auto=format",
                 "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/31ae460a-740c-43a4-9250-22dd12cbf394_Go-Biz_20210129_082914.jpeg?auto=format",
@@ -941,11 +941,11 @@
             ],
             "harga": {
                 "rekomendasi": [
-                    "1. Lumpia 1 Besek Basah Original (10pcs) : <b>Rp 195.00</b>0",
+                    "1. Lumpia 1 Besek Basah Original (10pcs) : <b>Rp 195.000</b>",
                     "2. Lumpia Goreng Original (Rebung, Udang, Telor) : <b>Rp 20.000</b>"
                  ],
                 "makanan": [
-                    "1. Lumpia 1 Besek Basah Original (10pcs) : <b>Rp 195.00</b>0",
+                    "1. Lumpia 1 Besek Basah Original (10pcs) : <b>Rp 195.000</b>",
                     "2. Lumpia Goreng Original (Rebung, Udang, Telor) : <b>Rp 20.000</b>",
                     "3. Lumpia Goreng Ayam (rebung,ayam,telor) : <b>Rp 20.000</b>"
                  ],
@@ -1029,8 +1029,7 @@
                 ],
                 "minuman": [
                     "1. Es Teh : <b>Rp 4.000</b>",
-                    "2. Teh Hangat : <b>Rp 4.000</b>",
-                    "3. Es Jeruk : <b>Rp 6.500</b>",
+                    "2. Es Jeruk : <b>Rp 6.500</b>",
                     "4. Jeruk Hangat : <b>Rp 6.500</b>"
                 ]
             },
