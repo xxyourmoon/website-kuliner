@@ -487,10 +487,6 @@ img#site-title {
 .grid {
   margin: 0 auto;
 }
-.grid-makananMantab{
-  /*overflow: scroll;*/
-  overflow-y: scroll;
-}
 .grid li {
   width: 25%;
   float: left;
@@ -625,7 +621,7 @@ table {
 }
 .slideshow figure img {
   width: 350px;
-  height: auto;
+  height: 275px;
   position: absolute;
   top: 0px;
   left: 0px;
