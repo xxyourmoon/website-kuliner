@@ -618,6 +618,7 @@ table {
 }
 .slideshow figure {
   width: 800px;
+  height: 710px;
   background: #fff;
   overflow: hidden;
   position: relative;
@@ -908,7 +909,7 @@ blockquote cite:before {
 }
 
 .feedback {
-  background: url("../img/dummy1.jpg");
+  background: url("../img/bridge-fountain.png");
 }
 
 .feedback .heading h2 {
@@ -995,7 +996,7 @@ blockquote .small {
     font-size: 45px;
   }
   .slideshow figure {
-    height: 600px;
+    height: 710px;
   }
   .slideshow figure iframe {
     height: 280px;
@@ -1019,11 +1020,13 @@ blockquote .small {
   }
 
   .slideshow li figure img {
-    width: auto;
+    width: 350px;
     margin: 0 auto;
     max-width: 100%;
   }
-
+  .slideshow figure iframe {
+    height: 380px;
+  }
   .slideshow nav span,
   .slideshow nav span.nav-close {
     font-size: 1.8em;
