@@ -450,7 +450,9 @@ img#logo-kuliner-semarang {
 img#site-title {
   max-width: 150px;
 }
-
+.aboutus .content p {
+  text-align: center;
+}
 /*------- 	Gallery Events-------------*/
 /* General style */
 .grid-gallery ul {
@@ -850,9 +852,7 @@ textarea.error {
   line-height: 24px;
   font-weight: 300;
   text-align: center;
-  text-transform: uppercase;
 }
-
 .gototop {
   display: inline-block;
   width: 43px;
@@ -996,10 +996,10 @@ blockquote .small {
     font-size: 45px;
   }
   .slideshow figure {
-    height: 710px;
+    height: 650px;
   }
   .slideshow figure iframe {
-    height: 280px;
+    height: 328px;
   }
   .slideshow figcaption {
     bottom: 558px;
@@ -1019,11 +1019,11 @@ blockquote .small {
     margin: 0;
   }
 
-  .slideshow li figure img {
+  /* .slideshow li figure img {
     width: 350px;
     margin: 0 auto;
     max-width: 100%;
-  }
+  } */
   .slideshow figure iframe {
     height: 380px;
   }
@@ -1092,7 +1092,40 @@ blockquote .small {
     width: 50%;
   }
 }
-
+@media only screen and (max-width: 400px) {
+  .slideshow figure {
+    height: 873px;
+    width: 400px;
+  }
+  .slideshow figure img {
+    position: relative;
+    top: 60px;
+    left: 56px;
+    width: 250px;
+    height: 220px;
+  }
+  .slideshow figcaption {
+    position: relative;
+    width: 477px;
+    right: 50px;
+    top: 74px;
+    overflow-y: scroll;
+  }
+  .slideshow figure iframe {
+    visibility: hidden;
+  }
+  table {
+    width: 330px;
+    position: relative;
+    left: 65px;
+  }
+  .hero h3 {
+    font-size: 17px;
+  }
+  .content p {
+    text-align: center;
+  }
+}
 @media screen and (max-width: 384px) {
   .grid li {
     width: 100%;
